@@ -440,7 +440,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 439,Pos Hujan,74720202a,-5.48144,122.63882,,,Kota Bau Bau,Sulawesi Tenggara,PHOBS
 440,Pos Hujan,74720401a,-5.3411,122.69,,,Kota Bau Bau,Sulawesi Tenggara,PHOBS
 441,Pos Hujan,74720402a,-5.39722,122.67278,,,Kota Bau Bau,Sulawesi Tenggara,PHOBS
-442,Pos Hujan,11061701a,5.43905,95.40411,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
+442,Pos Hujan,11061701a,5.43905,95.40411,,,Kab. Aceh Besar,Aceh,PHOBS
 443,Pos Hujan,82020701a,0.5401,127.88575,,,Kab. Halmahera Tengah,Maluku Utara,PHOBS
 444,Pos Hujan,82020501a,0.1589,127.88052,,,Kab. Halmahera Tengah,Maluku Utara,PHOBS
 445,Pos Hujan,82020401a,0.4621,128.08933,,,Kab. Halmahera Tengah,Maluku Utara,PHOBS
@@ -5148,7 +5148,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 5147,Pos Hujan,81021302a,-5.6606,132.65,,,Kab. Maluku Tenggara,Maluku,PHOBS
 5148,Pos Hujan,81021401a,-5.65121,132.68,,,Kab. Maluku Tenggara,Maluku,PHOBS
 5149,Pos Hujan,81030101a,-7.99944,131.3,,,Kab. Kep. Tanimbar,Maluku,PHOBS
-5150,Pos Hujan,11090403a,2.485,96.37,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
+5150,Pos Hujan,11090403a,2.485,96.37,,,Kab. Simeulue,Aceh,PHOBS
 5151,Pos Hujan,81030103a,-7.98333,131.3,,,Kab. Kep. Tanimbar,Maluku,PHOBS
 5152,Pos Hujan,81040101a,-3.3,126.93333,,,Kab. Buru,Maluku,PHOBS
 5153,Pos Hujan,81040301a,-3.18,127.01,,,Kab. Buru,Maluku,PHOBS
@@ -5198,186 +5198,186 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 5197,Pos Hujan,82720601a,0.53866,127.53932,,,Kota Tidore Kepulauan,Maluku Utara,PHOBS
 5198,Pos Hujan,82720701a,0.096,127.755,,,Kota Tidore Kepulauan,Maluku Utara,PHOBS
 5199,Pos Hujan,82720801a,0.70787,127.45462,,,Kota Tidore Kepulauan,Maluku Utara,PHOBS
-5200,Pos Hujan,11010101a,2.92574,97.48248,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5201,Pos Hujan,11010201a,3.13168,97.31301,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5202,Pos Hujan,11010301a,3.03,97.38,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5203,Pos Hujan,11010401a,3.59917,96.96027,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5204,Pos Hujan,11010501a,3.44713,97.06362,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5205,Pos Hujan,11010601a,3.32962,97.12486,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5206,Pos Hujan,11010701a,3.39791,97.09322,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5207,Pos Hujan,11010801a,3.2587,97.17957,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5208,Pos Hujan,11010901a,2.892,97.667,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5209,Pos Hujan,11011001a,3.16771,97.29652,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5210,Pos Hujan,11011101a,3.51168,97.0221,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5211,Pos Hujan,11011301a,3.198,97.371,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5212,Pos Hujan,11011401a,3.23,97.43,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5213,Pos Hujan,11011501a,2.88794,97.53596,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5214,Pos Hujan,11011601a,2.86545,97.76429,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-5215,Pos Hujan,11020101a,3.445,97.835,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5216,Pos Hujan,11020201a,3.34501,97.9235,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5217,Pos Hujan,11020301a,3.45,97.85,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5218,Pos Hujan,11020401a,3.49,97.82,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5219,Pos Hujan,11020501a,3.53,97.79,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5220,Pos Hujan,11020601a,3.29773,97.9642,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5221,Pos Hujan,11020701a,3.716,97.631,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5222,Pos Hujan,11020801a,3.5,97.83,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5223,Pos Hujan,11020901a,3.41,97.87,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5224,Pos Hujan,11021001a,3.39379,97.87763,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5225,Pos Hujan,11021101a,3.14,97.87,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5226,Pos Hujan,11021201a,3.6104,97.72976,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5227,Pos Hujan,11021301a,3.57647,97.85,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5228,Pos Hujan,11021401a,3.4925,97.8874,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5229,Pos Hujan,11021501a,3.2983,97.6531,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5230,Pos Hujan,11021601a,3.77656,97.71,,,Kab. Aceh Tenggara,Nanggroe Aceh Darussalam,PHOBS
-5231,Pos Hujan,11030101a,4.98,97.7,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5232,Pos Hujan,11030201a,5.067,97.575,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5233,Pos Hujan,11030301a,4.9514,97.7749,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5234,Pos Hujan,11030401a,4.54462,97.93193,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5235,Pos Hujan,11030501a,4.59,97.53,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5236,Pos Hujan,11740501a,4.484,97.934,,,Kota Langsa,Nanggroe Aceh Darussalam,PHOBS
-5237,Pos Hujan,11030701a,4.82732,97.89052,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5238,Pos Hujan,11030801a,4.60019,97.89607,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5239,Pos Hujan,11030901a,5.09138,97.54395,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5240,Pos Hujan,11031001a,4.81,97.78,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5241,Pos Hujan,11031101a,5.05253,97.51814,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5242,Pos Hujan,11031201a,5.168,97.501,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5243,Pos Hujan,11031301a,4.84,97.59,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5244,Pos Hujan,11031501a,4.85,97.69,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5245,Pos Hujan,11031601a,4.88752,97.84315,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5246,Pos Hujan,11031701a,4.73842,97.89403,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5247,Pos Hujan,11031901a,4.66354,97.92158,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5248,Pos Hujan,11032001a,4.29,97.54,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5249,Pos Hujan,11032101a,4.904,97.768,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5250,Pos Hujan,11032401a,4.64213,97.63,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-5251,Pos Hujan,11040101a,4.37946,97.12419,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5252,Pos Hujan,11040201a,4.70275,96.7127,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5253,Pos Hujan,11040301a,4.63634,96.83648,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5254,Pos Hujan,11040701a,4.59525,96.80801,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5255,Pos Hujan,11040801a,4.586,97.015,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5256,Pos Hujan,11041001a,4.69,96.73,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5257,Pos Hujan,11041101a,4.655,96.823,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5258,Pos Hujan,11041201a,4.683,96.796,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5259,Pos Hujan,11041301a,4.59988,96.69486,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5260,Pos Hujan,11041701a,4.60139,96.87319,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5261,Pos Hujan,11041801a,4.4162,96.7768,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5262,Pos Hujan,11041901a,4.37721,96.76104,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5263,Pos Hujan,11042001a,4.7462,96.7337,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5264,Pos Hujan,11042101a,4.62,96.64,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-5265,Pos Hujan,11050101a,4.20207,96.13929,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5266,Pos Hujan,11050201a,4.23045,96.16877,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5267,Pos Hujan,11050301a,4.54837,96.11086,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5268,Pos Hujan,11050401a,4.41077,96.0602,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5269,Pos Hujan,11050501a,4.21,96.07,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5270,Pos Hujan,11050601a,4.30715,96.09387,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5271,Pos Hujan,11050701a,4.32122,95.9591,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5272,Pos Hujan,11050801a,4.38849,96.25065,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5273,Pos Hujan,11050901a,4.156,96.15767,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5274,Pos Hujan,11051001a,4.32489,96.02125,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5275,Pos Hujan,11051101a,4.47,96.09,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5276,Pos Hujan,11051201a,4.40675,96.19843,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-5277,Pos Hujan,11060101a,5.23,95.27,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5278,Pos Hujan,11060201a,5.473,95.24,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5279,Pos Hujan,11060401a,5.36625,95.56977,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5280,Pos Hujan,11060501a,5.45749,95.42087,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5281,Pos Hujan,11060701a,5.49519,95.33187,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5282,Pos Hujan,11060702a,5.5,95.303,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5283,Pos Hujan,11060801a,5.53302,95.27,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5284,Pos Hujan,11060901a,5.59094,95.51,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5285,Pos Hujan,11061001a,5.52,95.35,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5286,Pos Hujan,11061101a,5.53665,95.37668,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5287,Pos Hujan,11061301a,5.67046,95.12485,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5288,Pos Hujan,11061201a,5.5884,95.3973,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5289,Pos Hujan,11061401a,5.4478,95.7285,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5290,Pos Hujan,11061501a,5.29846,95.60126,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5291,Pos Hujan,11061601a,5.3981,95.50921,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5292,Pos Hujan,11062001a,5.60011,95.38777,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5293,Pos Hujan,11062201a,5.38697,95.25649,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5294,Pos Hujan,11062301a,5.51416,95.4241,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-5295,Pos Hujan,11070401a,5.34335,95.91162,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5296,Pos Hujan,11070501a,4.84633,96.1327,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5297,Pos Hujan,11070601a,5.24727,96.0267,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5298,Pos Hujan,11070801a,5.31158,96.01857,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5299,Pos Hujan,11070901a,5.367,95.9567,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5300,Pos Hujan,11070902a,5.37819,95.93594,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5301,Pos Hujan,11071101a,5.29225,95.91347,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5302,Pos Hujan,11071201a,5.52608,95.82909,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5303,Pos Hujan,11071302a,5.28,95.96,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5304,Pos Hujan,11071301a,5.27589,95.96849,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5305,Pos Hujan,11071401a,5.41765,95.83222,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5306,Pos Hujan,11071501a,5.30999,95.96357,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5307,Pos Hujan,11071701a,5.2542,95.94177,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5308,Pos Hujan,11071801a,5.33,95.997,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5309,Pos Hujan,11071901a,5.01231,95.91644,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5310,Pos Hujan,11072101a,5.216,95.95,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5311,Pos Hujan,11072201a,5.232,95.89,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5312,Pos Hujan,11072401a,5.25944,95.99164,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5313,Pos Hujan,11072501a,5.372,95.894,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5314,Pos Hujan,11072901a,5.283,96.041,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-5315,Pos Hujan,11080101a,5.13068,97.42876,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5316,Pos Hujan,11080201a,5.24592,97.01768,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5317,Pos Hujan,11080401a,5.0595,97.33926,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5318,Pos Hujan,11080501a,5.02756,97.29289,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5319,Pos Hujan,11080601a,5.2411,96.91471,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5320,Pos Hujan,11080701a,5.06026,97.20423,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5321,Pos Hujan,11081001a,5.09273,97.24998,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5322,Pos Hujan,11081101a,5.11468,97.18806,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5323,Pos Hujan,11081201a,5.05936,97.2641,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5324,Pos Hujan,11081501a,5.13069,96.88968,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5325,Pos Hujan,11081701a,4.95,97.432,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5326,Pos Hujan,11081801a,5.059,97.501,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5327,Pos Hujan,11082101a,5.07257,97.25677,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-5328,Pos Hujan,11090101a,2.63,96.107,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5329,Pos Hujan,11090201a,2.64763,95.85952,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5330,Pos Hujan,11090301a,2.4411,96.2445,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5331,Pos Hujan,11090401a,2.4089,96.3257,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5332,Pos Hujan,11090402a,2.36,96.45,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5333,Pos Hujan,11090501a,2.63,96.14,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5334,Pos Hujan,11090601a,2.83655,95.91884,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5335,Pos Hujan,11090801a,2.824,95.744,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-5336,Pos Hujan,11100101a,2.3417,97.38275,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5337,Pos Hujan,11100201a,2.45,98.04,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5338,Pos Hujan,11100401a,2.29,97.85,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5339,Pos Hujan,11100601a,2.37263,97.97475,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5340,Pos Hujan,11101001a,2.27679,97.93757,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5341,Pos Hujan,11101101a,2.47,97.85,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5342,Pos Hujan,11101201a,2.4772,98.03962,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5343,Pos Hujan,11101301a,2.53,97.94,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5344,Pos Hujan,11101401a,2.35187,97.711,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5345,Pos Hujan,11110101a,5.19793,96.36666,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5346,Pos Hujan,11110201a,5.18656,96.50132,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5347,Pos Hujan,11110301a,5.2,96.59,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5348,Pos Hujan,11110401a,5.20483,96.66624,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5349,Pos Hujan,11110501a,5.19857,96.7691,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5350,Pos Hujan,11110601a,5.21507,96.87227,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5351,Pos Hujan,11110701a,5.22469,96.89783,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5352,Pos Hujan,11110801a,5.18564,96.46178,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5353,Pos Hujan,11110901a,5.11937,96.71163,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5354,Pos Hujan,11111001a,5.2503,96.79846,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5355,Pos Hujan,11111101a,5.19215,96.41232,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5356,Pos Hujan,11111301a,5.19511,96.69308,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5357,Pos Hujan,11111501a,5.15951,96.8154,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5358,Pos Hujan,11111601a,5.10748,96.76709,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5359,Pos Hujan,11111701a,5.21187,96.83623,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-5360,Pos Hujan,11120101a,3.71584,96.86069,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5361,Pos Hujan,11120201a,3.66756,96.90368,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5362,Pos Hujan,11120301a,3.62,96.93,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5363,Pos Hujan,11120401a,3.73,96.83,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5364,Pos Hujan,11120501a,3.84598,96.74434,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5365,Pos Hujan,11120601a,3.90206,96.69744,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5366,Pos Hujan,11120901a,3.62793,96.94773,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-5367,Pos Hujan,11130101a,3.945,97.371,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5368,Pos Hujan,11130201a,4.018,97.28,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5369,Pos Hujan,11130301a,4.082,97.29,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5370,Pos Hujan,11130401a,4.05492,97.07628,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5371,Pos Hujan,11130501a,4.09,97.58,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5372,Pos Hujan,11130901a,4.0,97.31,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5373,Pos Hujan,11131101a,4.18,97.2,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-5374,Pos Hujan,11140101a,4.47508,95.79156,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5375,Pos Hujan,11140201a,4.58689,95.66125,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5376,Pos Hujan,11140202a,4.86247,95.8514,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5377,Pos Hujan,11140301a,4.67125,95.54507,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5378,Pos Hujan,11100901a,2.43,97.82,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-5379,Pos Hujan,11140401a,4.87,95.45,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
+5200,Pos Hujan,11010101a,2.92574,97.48248,,,Kab. Aceh Selatan,Aceh,PHOBS
+5201,Pos Hujan,11010201a,3.13168,97.31301,,,Kab. Aceh Selatan,Aceh,PHOBS
+5202,Pos Hujan,11010301a,3.03,97.38,,,Kab. Aceh Selatan,Aceh,PHOBS
+5203,Pos Hujan,11010401a,3.59917,96.96027,,,Kab. Aceh Selatan,Aceh,PHOBS
+5204,Pos Hujan,11010501a,3.44713,97.06362,,,Kab. Aceh Selatan,Aceh,PHOBS
+5205,Pos Hujan,11010601a,3.32962,97.12486,,,Kab. Aceh Selatan,Aceh,PHOBS
+5206,Pos Hujan,11010701a,3.39791,97.09322,,,Kab. Aceh Selatan,Aceh,PHOBS
+5207,Pos Hujan,11010801a,3.2587,97.17957,,,Kab. Aceh Selatan,Aceh,PHOBS
+5208,Pos Hujan,11010901a,2.892,97.667,,,Kab. Aceh Selatan,Aceh,PHOBS
+5209,Pos Hujan,11011001a,3.16771,97.29652,,,Kab. Aceh Selatan,Aceh,PHOBS
+5210,Pos Hujan,11011101a,3.51168,97.0221,,,Kab. Aceh Selatan,Aceh,PHOBS
+5211,Pos Hujan,11011301a,3.198,97.371,,,Kab. Aceh Selatan,Aceh,PHOBS
+5212,Pos Hujan,11011401a,3.23,97.43,,,Kab. Aceh Selatan,Aceh,PHOBS
+5213,Pos Hujan,11011501a,2.88794,97.53596,,,Kab. Aceh Selatan,Aceh,PHOBS
+5214,Pos Hujan,11011601a,2.86545,97.76429,,,Kab. Aceh Selatan,Aceh,PHOBS
+5215,Pos Hujan,11020101a,3.445,97.835,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5216,Pos Hujan,11020201a,3.34501,97.9235,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5217,Pos Hujan,11020301a,3.45,97.85,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5218,Pos Hujan,11020401a,3.49,97.82,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5219,Pos Hujan,11020501a,3.53,97.79,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5220,Pos Hujan,11020601a,3.29773,97.9642,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5221,Pos Hujan,11020701a,3.716,97.631,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5222,Pos Hujan,11020801a,3.5,97.83,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5223,Pos Hujan,11020901a,3.41,97.87,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5224,Pos Hujan,11021001a,3.39379,97.87763,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5225,Pos Hujan,11021101a,3.14,97.87,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5226,Pos Hujan,11021201a,3.6104,97.72976,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5227,Pos Hujan,11021301a,3.57647,97.85,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5228,Pos Hujan,11021401a,3.4925,97.8874,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5229,Pos Hujan,11021501a,3.2983,97.6531,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5230,Pos Hujan,11021601a,3.77656,97.71,,,Kab. Aceh Tenggara,Aceh,PHOBS
+5231,Pos Hujan,11030101a,4.98,97.7,,,Kab. Aceh Timur,Aceh,PHOBS
+5232,Pos Hujan,11030201a,5.067,97.575,,,Kab. Aceh Timur,Aceh,PHOBS
+5233,Pos Hujan,11030301a,4.9514,97.7749,,,Kab. Aceh Timur,Aceh,PHOBS
+5234,Pos Hujan,11030401a,4.54462,97.93193,,,Kab. Aceh Timur,Aceh,PHOBS
+5235,Pos Hujan,11030501a,4.59,97.53,,,Kab. Aceh Timur,Aceh,PHOBS
+5236,Pos Hujan,11740501a,4.484,97.934,,,Kota Langsa,Aceh,PHOBS
+5237,Pos Hujan,11030701a,4.82732,97.89052,,,Kab. Aceh Timur,Aceh,PHOBS
+5238,Pos Hujan,11030801a,4.60019,97.89607,,,Kab. Aceh Timur,Aceh,PHOBS
+5239,Pos Hujan,11030901a,5.09138,97.54395,,,Kab. Aceh Timur,Aceh,PHOBS
+5240,Pos Hujan,11031001a,4.81,97.78,,,Kab. Aceh Timur,Aceh,PHOBS
+5241,Pos Hujan,11031101a,5.05253,97.51814,,,Kab. Aceh Timur,Aceh,PHOBS
+5242,Pos Hujan,11031201a,5.168,97.501,,,Kab. Aceh Timur,Aceh,PHOBS
+5243,Pos Hujan,11031301a,4.84,97.59,,,Kab. Aceh Timur,Aceh,PHOBS
+5244,Pos Hujan,11031501a,4.85,97.69,,,Kab. Aceh Timur,Aceh,PHOBS
+5245,Pos Hujan,11031601a,4.88752,97.84315,,,Kab. Aceh Timur,Aceh,PHOBS
+5246,Pos Hujan,11031701a,4.73842,97.89403,,,Kab. Aceh Timur,Aceh,PHOBS
+5247,Pos Hujan,11031901a,4.66354,97.92158,,,Kab. Aceh Timur,Aceh,PHOBS
+5248,Pos Hujan,11032001a,4.29,97.54,,,Kab. Aceh Timur,Aceh,PHOBS
+5249,Pos Hujan,11032101a,4.904,97.768,,,Kab. Aceh Timur,Aceh,PHOBS
+5250,Pos Hujan,11032401a,4.64213,97.63,,,Kab. Aceh Timur,Aceh,PHOBS
+5251,Pos Hujan,11040101a,4.37946,97.12419,,,Kab. Aceh Tengah,Aceh,PHOBS
+5252,Pos Hujan,11040201a,4.70275,96.7127,,,Kab. Aceh Tengah,Aceh,PHOBS
+5253,Pos Hujan,11040301a,4.63634,96.83648,,,Kab. Aceh Tengah,Aceh,PHOBS
+5254,Pos Hujan,11040701a,4.59525,96.80801,,,Kab. Aceh Tengah,Aceh,PHOBS
+5255,Pos Hujan,11040801a,4.586,97.015,,,Kab. Aceh Tengah,Aceh,PHOBS
+5256,Pos Hujan,11041001a,4.69,96.73,,,Kab. Aceh Tengah,Aceh,PHOBS
+5257,Pos Hujan,11041101a,4.655,96.823,,,Kab. Aceh Tengah,Aceh,PHOBS
+5258,Pos Hujan,11041201a,4.683,96.796,,,Kab. Aceh Tengah,Aceh,PHOBS
+5259,Pos Hujan,11041301a,4.59988,96.69486,,,Kab. Aceh Tengah,Aceh,PHOBS
+5260,Pos Hujan,11041701a,4.60139,96.87319,,,Kab. Aceh Tengah,Aceh,PHOBS
+5261,Pos Hujan,11041801a,4.4162,96.7768,,,Kab. Aceh Tengah,Aceh,PHOBS
+5262,Pos Hujan,11041901a,4.37721,96.76104,,,Kab. Aceh Tengah,Aceh,PHOBS
+5263,Pos Hujan,11042001a,4.7462,96.7337,,,Kab. Aceh Tengah,Aceh,PHOBS
+5264,Pos Hujan,11042101a,4.62,96.64,,,Kab. Aceh Tengah,Aceh,PHOBS
+5265,Pos Hujan,11050101a,4.20207,96.13929,,,Kab. Aceh Barat,Aceh,PHOBS
+5266,Pos Hujan,11050201a,4.23045,96.16877,,,Kab. Aceh Barat,Aceh,PHOBS
+5267,Pos Hujan,11050301a,4.54837,96.11086,,,Kab. Aceh Barat,Aceh,PHOBS
+5268,Pos Hujan,11050401a,4.41077,96.0602,,,Kab. Aceh Barat,Aceh,PHOBS
+5269,Pos Hujan,11050501a,4.21,96.07,,,Kab. Aceh Barat,Aceh,PHOBS
+5270,Pos Hujan,11050601a,4.30715,96.09387,,,Kab. Aceh Barat,Aceh,PHOBS
+5271,Pos Hujan,11050701a,4.32122,95.9591,,,Kab. Aceh Barat,Aceh,PHOBS
+5272,Pos Hujan,11050801a,4.38849,96.25065,,,Kab. Aceh Barat,Aceh,PHOBS
+5273,Pos Hujan,11050901a,4.156,96.15767,,,Kab. Aceh Barat,Aceh,PHOBS
+5274,Pos Hujan,11051001a,4.32489,96.02125,,,Kab. Aceh Barat,Aceh,PHOBS
+5275,Pos Hujan,11051101a,4.47,96.09,,,Kab. Aceh Barat,Aceh,PHOBS
+5276,Pos Hujan,11051201a,4.40675,96.19843,,,Kab. Aceh Barat,Aceh,PHOBS
+5277,Pos Hujan,11060101a,5.23,95.27,,,Kab. Aceh Besar,Aceh,PHOBS
+5278,Pos Hujan,11060201a,5.473,95.24,,,Kab. Aceh Besar,Aceh,PHOBS
+5279,Pos Hujan,11060401a,5.36625,95.56977,,,Kab. Aceh Besar,Aceh,PHOBS
+5280,Pos Hujan,11060501a,5.45749,95.42087,,,Kab. Aceh Besar,Aceh,PHOBS
+5281,Pos Hujan,11060701a,5.49519,95.33187,,,Kab. Aceh Besar,Aceh,PHOBS
+5282,Pos Hujan,11060702a,5.5,95.303,,,Kab. Aceh Besar,Aceh,PHOBS
+5283,Pos Hujan,11060801a,5.53302,95.27,,,Kab. Aceh Besar,Aceh,PHOBS
+5284,Pos Hujan,11060901a,5.59094,95.51,,,Kab. Aceh Besar,Aceh,PHOBS
+5285,Pos Hujan,11061001a,5.52,95.35,,,Kab. Aceh Besar,Aceh,PHOBS
+5286,Pos Hujan,11061101a,5.53665,95.37668,,,Kab. Aceh Besar,Aceh,PHOBS
+5287,Pos Hujan,11061301a,5.67046,95.12485,,,Kab. Aceh Besar,Aceh,PHOBS
+5288,Pos Hujan,11061201a,5.5884,95.3973,,,Kab. Aceh Besar,Aceh,PHOBS
+5289,Pos Hujan,11061401a,5.4478,95.7285,,,Kab. Aceh Besar,Aceh,PHOBS
+5290,Pos Hujan,11061501a,5.29846,95.60126,,,Kab. Aceh Besar,Aceh,PHOBS
+5291,Pos Hujan,11061601a,5.3981,95.50921,,,Kab. Aceh Besar,Aceh,PHOBS
+5292,Pos Hujan,11062001a,5.60011,95.38777,,,Kab. Aceh Besar,Aceh,PHOBS
+5293,Pos Hujan,11062201a,5.38697,95.25649,,,Kab. Aceh Besar,Aceh,PHOBS
+5294,Pos Hujan,11062301a,5.51416,95.4241,,,Kab. Aceh Besar,Aceh,PHOBS
+5295,Pos Hujan,11070401a,5.34335,95.91162,,,Kab. Pidie,Aceh,PHOBS
+5296,Pos Hujan,11070501a,4.84633,96.1327,,,Kab. Pidie,Aceh,PHOBS
+5297,Pos Hujan,11070601a,5.24727,96.0267,,,Kab. Pidie,Aceh,PHOBS
+5298,Pos Hujan,11070801a,5.31158,96.01857,,,Kab. Pidie,Aceh,PHOBS
+5299,Pos Hujan,11070901a,5.367,95.9567,,,Kab. Pidie,Aceh,PHOBS
+5300,Pos Hujan,11070902a,5.37819,95.93594,,,Kab. Pidie,Aceh,PHOBS
+5301,Pos Hujan,11071101a,5.29225,95.91347,,,Kab. Pidie,Aceh,PHOBS
+5302,Pos Hujan,11071201a,5.52608,95.82909,,,Kab. Pidie,Aceh,PHOBS
+5303,Pos Hujan,11071302a,5.28,95.96,,,Kab. Pidie,Aceh,PHOBS
+5304,Pos Hujan,11071301a,5.27589,95.96849,,,Kab. Pidie,Aceh,PHOBS
+5305,Pos Hujan,11071401a,5.41765,95.83222,,,Kab. Pidie,Aceh,PHOBS
+5306,Pos Hujan,11071501a,5.30999,95.96357,,,Kab. Pidie,Aceh,PHOBS
+5307,Pos Hujan,11071701a,5.2542,95.94177,,,Kab. Pidie,Aceh,PHOBS
+5308,Pos Hujan,11071801a,5.33,95.997,,,Kab. Pidie,Aceh,PHOBS
+5309,Pos Hujan,11071901a,5.01231,95.91644,,,Kab. Pidie,Aceh,PHOBS
+5310,Pos Hujan,11072101a,5.216,95.95,,,Kab. Pidie,Aceh,PHOBS
+5311,Pos Hujan,11072201a,5.232,95.89,,,Kab. Pidie,Aceh,PHOBS
+5312,Pos Hujan,11072401a,5.25944,95.99164,,,Kab. Pidie,Aceh,PHOBS
+5313,Pos Hujan,11072501a,5.372,95.894,,,Kab. Pidie,Aceh,PHOBS
+5314,Pos Hujan,11072901a,5.283,96.041,,,Kab. Pidie,Aceh,PHOBS
+5315,Pos Hujan,11080101a,5.13068,97.42876,,,Kab. Aceh Utara,Aceh,PHOBS
+5316,Pos Hujan,11080201a,5.24592,97.01768,,,Kab. Aceh Utara,Aceh,PHOBS
+5317,Pos Hujan,11080401a,5.0595,97.33926,,,Kab. Aceh Utara,Aceh,PHOBS
+5318,Pos Hujan,11080501a,5.02756,97.29289,,,Kab. Aceh Utara,Aceh,PHOBS
+5319,Pos Hujan,11080601a,5.2411,96.91471,,,Kab. Aceh Utara,Aceh,PHOBS
+5320,Pos Hujan,11080701a,5.06026,97.20423,,,Kab. Aceh Utara,Aceh,PHOBS
+5321,Pos Hujan,11081001a,5.09273,97.24998,,,Kab. Aceh Utara,Aceh,PHOBS
+5322,Pos Hujan,11081101a,5.11468,97.18806,,,Kab. Aceh Utara,Aceh,PHOBS
+5323,Pos Hujan,11081201a,5.05936,97.2641,,,Kab. Aceh Utara,Aceh,PHOBS
+5324,Pos Hujan,11081501a,5.13069,96.88968,,,Kab. Aceh Utara,Aceh,PHOBS
+5325,Pos Hujan,11081701a,4.95,97.432,,,Kab. Aceh Utara,Aceh,PHOBS
+5326,Pos Hujan,11081801a,5.059,97.501,,,Kab. Aceh Utara,Aceh,PHOBS
+5327,Pos Hujan,11082101a,5.07257,97.25677,,,Kab. Aceh Utara,Aceh,PHOBS
+5328,Pos Hujan,11090101a,2.63,96.107,,,Kab. Simeulue,Aceh,PHOBS
+5329,Pos Hujan,11090201a,2.64763,95.85952,,,Kab. Simeulue,Aceh,PHOBS
+5330,Pos Hujan,11090301a,2.4411,96.2445,,,Kab. Simeulue,Aceh,PHOBS
+5331,Pos Hujan,11090401a,2.4089,96.3257,,,Kab. Simeulue,Aceh,PHOBS
+5332,Pos Hujan,11090402a,2.36,96.45,,,Kab. Simeulue,Aceh,PHOBS
+5333,Pos Hujan,11090501a,2.63,96.14,,,Kab. Simeulue,Aceh,PHOBS
+5334,Pos Hujan,11090601a,2.83655,95.91884,,,Kab. Simeulue,Aceh,PHOBS
+5335,Pos Hujan,11090801a,2.824,95.744,,,Kab. Simeulue,Aceh,PHOBS
+5336,Pos Hujan,11100101a,2.3417,97.38275,,,Kab. Aceh Singkil,Aceh,PHOBS
+5337,Pos Hujan,11100201a,2.45,98.04,,,Kab. Aceh Singkil,Aceh,PHOBS
+5338,Pos Hujan,11100401a,2.29,97.85,,,Kab. Aceh Singkil,Aceh,PHOBS
+5339,Pos Hujan,11100601a,2.37263,97.97475,,,Kab. Aceh Singkil,Aceh,PHOBS
+5340,Pos Hujan,11101001a,2.27679,97.93757,,,Kab. Aceh Singkil,Aceh,PHOBS
+5341,Pos Hujan,11101101a,2.47,97.85,,,Kab. Aceh Singkil,Aceh,PHOBS
+5342,Pos Hujan,11101201a,2.4772,98.03962,,,Kab. Aceh Singkil,Aceh,PHOBS
+5343,Pos Hujan,11101301a,2.53,97.94,,,Kab. Aceh Singkil,Aceh,PHOBS
+5344,Pos Hujan,11101401a,2.35187,97.711,,,Kab. Aceh Singkil,Aceh,PHOBS
+5345,Pos Hujan,11110101a,5.19793,96.36666,,,Kab. Bireuen,Aceh,PHOBS
+5346,Pos Hujan,11110201a,5.18656,96.50132,,,Kab. Bireuen,Aceh,PHOBS
+5347,Pos Hujan,11110301a,5.2,96.59,,,Kab. Bireuen,Aceh,PHOBS
+5348,Pos Hujan,11110401a,5.20483,96.66624,,,Kab. Bireuen,Aceh,PHOBS
+5349,Pos Hujan,11110501a,5.19857,96.7691,,,Kab. Bireuen,Aceh,PHOBS
+5350,Pos Hujan,11110601a,5.21507,96.87227,,,Kab. Bireuen,Aceh,PHOBS
+5351,Pos Hujan,11110701a,5.22469,96.89783,,,Kab. Bireuen,Aceh,PHOBS
+5352,Pos Hujan,11110801a,5.18564,96.46178,,,Kab. Bireuen,Aceh,PHOBS
+5353,Pos Hujan,11110901a,5.11937,96.71163,,,Kab. Bireuen,Aceh,PHOBS
+5354,Pos Hujan,11111001a,5.2503,96.79846,,,Kab. Bireuen,Aceh,PHOBS
+5355,Pos Hujan,11111101a,5.19215,96.41232,,,Kab. Bireuen,Aceh,PHOBS
+5356,Pos Hujan,11111301a,5.19511,96.69308,,,Kab. Bireuen,Aceh,PHOBS
+5357,Pos Hujan,11111501a,5.15951,96.8154,,,Kab. Bireuen,Aceh,PHOBS
+5358,Pos Hujan,11111601a,5.10748,96.76709,,,Kab. Bireuen,Aceh,PHOBS
+5359,Pos Hujan,11111701a,5.21187,96.83623,,,Kab. Bireuen,Aceh,PHOBS
+5360,Pos Hujan,11120101a,3.71584,96.86069,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5361,Pos Hujan,11120201a,3.66756,96.90368,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5362,Pos Hujan,11120301a,3.62,96.93,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5363,Pos Hujan,11120401a,3.73,96.83,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5364,Pos Hujan,11120501a,3.84598,96.74434,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5365,Pos Hujan,11120601a,3.90206,96.69744,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5366,Pos Hujan,11120901a,3.62793,96.94773,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+5367,Pos Hujan,11130101a,3.945,97.371,,,Kab. Gayo Lues,Aceh,PHOBS
+5368,Pos Hujan,11130201a,4.018,97.28,,,Kab. Gayo Lues,Aceh,PHOBS
+5369,Pos Hujan,11130301a,4.082,97.29,,,Kab. Gayo Lues,Aceh,PHOBS
+5370,Pos Hujan,11130401a,4.05492,97.07628,,,Kab. Gayo Lues,Aceh,PHOBS
+5371,Pos Hujan,11130501a,4.09,97.58,,,Kab. Gayo Lues,Aceh,PHOBS
+5372,Pos Hujan,11130901a,4.0,97.31,,,Kab. Gayo Lues,Aceh,PHOBS
+5373,Pos Hujan,11131101a,4.18,97.2,,,Kab. Gayo Lues,Aceh,PHOBS
+5374,Pos Hujan,11140101a,4.47508,95.79156,,,Kab. Aceh Jaya,Aceh,PHOBS
+5375,Pos Hujan,11140201a,4.58689,95.66125,,,Kab. Aceh Jaya,Aceh,PHOBS
+5376,Pos Hujan,11140202a,4.86247,95.8514,,,Kab. Aceh Jaya,Aceh,PHOBS
+5377,Pos Hujan,11140301a,4.67125,95.54507,,,Kab. Aceh Jaya,Aceh,PHOBS
+5378,Pos Hujan,11100901a,2.43,97.82,,,Kab. Aceh Singkil,Aceh,PHOBS
+5379,Pos Hujan,11140401a,4.87,95.45,,,Kab. Aceh Jaya,Aceh,PHOBS
 5380,Pos Hujan,12060903a,3.057,98.119,,,Kab. Karo,Sumatera Utara,PHOBS
 5381,Pos Hujan,12061001a,3.218,97.983,,,Kab. Karo,Sumatera Utara,PHOBS
 5382,Pos Hujan,12061201a,3.13,98.43,,,Kab. Karo,Sumatera Utara,PHOBS
@@ -5399,68 +5399,68 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 5398,Pos Hujan,12072304a,3.615,98.548,,,Kab. Deli Serdang,Sumatera Utara,PHOBS
 5399,Pos Hujan,12072401a,3.684,98.511,,,Kab. Deli Serdang,Sumatera Utara,PHOBS
 5400,Pos Hujan,12072402a,3.64,98.59,,,Kab. Deli Serdang,Sumatera Utara,PHOBS
-5401,Pos Hujan,11140601a,4.55945,95.7,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5402,Pos Hujan,11140801a,4.79731,95.45962,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5403,Pos Hujan,11140501a,5.11217,95.34386,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5404,Pos Hujan,11140901a,4.49997,95.88699,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5405,Pos Hujan,11141501a,5.03691,95.4127,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-5406,Pos Hujan,11150101a,4.08656,96.27545,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-5407,Pos Hujan,11150701a,4.07945,96.22838,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-5408,Pos Hujan,11150201a,4.23,96.31,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-5409,Pos Hujan,11150401a,4.24888,96.41906,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-5410,Pos Hujan,11150501a,3.99,96.52,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-5411,Pos Hujan,11150901a,3.93,96.46,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-5412,Pos Hujan,11160101a,4.39,98.03,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5413,Pos Hujan,11160201a,4.43,98.17,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5414,Pos Hujan,11160301a,4.30322,98.06398,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5415,Pos Hujan,11160401a,4.34634,98.17537,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5416,Pos Hujan,11160501a,4.29,98.05,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5417,Pos Hujan,11160601a,4.07,97.98,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5418,Pos Hujan,11160701a,4.16759,97.94728,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5419,Pos Hujan,11160801a,4.3022,98.08309,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5420,Pos Hujan,11160901a,4.41308,98.1119,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5421,Pos Hujan,11161001a,4.26951,97.94287,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5422,Pos Hujan,11161101a,4.12,97.96,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5423,Pos Hujan,11161201a,4.3423,97.9251,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-5424,Pos Hujan,11170101a,4.86,96.7454,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5425,Pos Hujan,11170102a,4.84,96.76,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5426,Pos Hujan,11170201a,4.82645,96.9178,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5427,Pos Hujan,11170301a,4.67,97.207,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5428,Pos Hujan,11170401a,4.7531,96.896,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5429,Pos Hujan,11170501a,4.72418,96.85362,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5430,Pos Hujan,11170601a,4.72,96.8,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5431,Pos Hujan,11170701a,4.75273,96.75003,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5432,Pos Hujan,11170801a,4.77421,96.92,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5433,Pos Hujan,11170901a,4.76736,97.03,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5434,Pos Hujan,11171001a,4.81201,96.76,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-5435,Pos Hujan,11180101a,5.232,96.247,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5436,Pos Hujan,11180201a,5.23,96.29,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5437,Pos Hujan,11180301a,5.22,96.32,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5438,Pos Hujan,11180401a,5.18499,96.32486,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5439,Pos Hujan,11180501a,5.24,96.26,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5440,Pos Hujan,11180601a,5.28,96.11,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5441,Pos Hujan,11180801a,5.2582,96.1844,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-5442,Pos Hujan,11710101a,5.54582,95.31965,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5443,Pos Hujan,11710201a,5.5599,95.33008,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5444,Pos Hujan,11710301a,5.5429,95.2869,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5445,Pos Hujan,11710401a,5.58,95.35,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5446,Pos Hujan,11710501a,5.54027,95.33955,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5447,Pos Hujan,11710601a,5.5715,95.3416,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5448,Pos Hujan,11710701a,5.52321,95.3103,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5449,Pos Hujan,11710801a,5.535,95.3,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5450,Pos Hujan,11710901a,5.54,95.35,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-5451,Pos Hujan,11720101a,5.85157,95.32,,,Kota Sabang,Nanggroe Aceh Darussalam,PHOBS
-5452,Pos Hujan,11720201a,5.8898,95.3281,,,Kota Sabang,Nanggroe Aceh Darussalam,PHOBS
-5453,Pos Hujan,11720202a,5.84188,95.34,,,Kota Sabang,Nanggroe Aceh Darussalam,PHOBS
-5454,Pos Hujan,11740101a,4.45829,98.00282,,,Kota Langsa,Nanggroe Aceh Darussalam,PHOBS
-5455,Pos Hujan,11740201a,4.50709,97.95087,,,Kota Langsa,Nanggroe Aceh Darussalam,PHOBS
-5456,Pos Hujan,11740301a,4.5,98.0,,,Kota Langsa,Nanggroe Aceh Darussalam,PHOBS
-5457,Pos Hujan,11740401a,4.467,97.96,,,Kota Langsa,Nanggroe Aceh Darussalam,PHOBS
-5458,Pos Hujan,11750101a,2.65532,97.98477,,,Kota Subulussalamuu,Nanggroe Aceh Darussalam,PHOBS
-5459,Pos Hujan,11750201a,2.61134,98.02001,,,Kota Subulussalamuu,Nanggroe Aceh Darussalam,PHOBS
-5460,Pos Hujan,11750301a,2.66892,97.87927,,,Kota Subulussalamuu,Nanggroe Aceh Darussalam,PHOBS
-5461,Pos Hujan,11750401a,2.712,97.979,,,Kota Subulussalamuu,Nanggroe Aceh Darussalam,PHOBS
-5462,Pos Hujan,11750501a,2.642,97.987,,,Kota Subulussalamuu,Nanggroe Aceh Darussalam,PHOBS
+5401,Pos Hujan,11140601a,4.55945,95.7,,,Kab. Aceh Jaya,Aceh,PHOBS
+5402,Pos Hujan,11140801a,4.79731,95.45962,,,Kab. Aceh Jaya,Aceh,PHOBS
+5403,Pos Hujan,11140501a,5.11217,95.34386,,,Kab. Aceh Jaya,Aceh,PHOBS
+5404,Pos Hujan,11140901a,4.49997,95.88699,,,Kab. Aceh Jaya,Aceh,PHOBS
+5405,Pos Hujan,11141501a,5.03691,95.4127,,,Kab. Aceh Jaya,Aceh,PHOBS
+5406,Pos Hujan,11150101a,4.08656,96.27545,,,Kab. Nagan Raya,Aceh,PHOBS
+5407,Pos Hujan,11150701a,4.07945,96.22838,,,Kab. Nagan Raya,Aceh,PHOBS
+5408,Pos Hujan,11150201a,4.23,96.31,,,Kab. Nagan Raya,Aceh,PHOBS
+5409,Pos Hujan,11150401a,4.24888,96.41906,,,Kab. Nagan Raya,Aceh,PHOBS
+5410,Pos Hujan,11150501a,3.99,96.52,,,Kab. Nagan Raya,Aceh,PHOBS
+5411,Pos Hujan,11150901a,3.93,96.46,,,Kab. Nagan Raya,Aceh,PHOBS
+5412,Pos Hujan,11160101a,4.39,98.03,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5413,Pos Hujan,11160201a,4.43,98.17,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5414,Pos Hujan,11160301a,4.30322,98.06398,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5415,Pos Hujan,11160401a,4.34634,98.17537,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5416,Pos Hujan,11160501a,4.29,98.05,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5417,Pos Hujan,11160601a,4.07,97.98,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5418,Pos Hujan,11160701a,4.16759,97.94728,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5419,Pos Hujan,11160801a,4.3022,98.08309,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5420,Pos Hujan,11160901a,4.41308,98.1119,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5421,Pos Hujan,11161001a,4.26951,97.94287,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5422,Pos Hujan,11161101a,4.12,97.96,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5423,Pos Hujan,11161201a,4.3423,97.9251,,,Kab. Aceh Tamiang,Aceh,PHOBS
+5424,Pos Hujan,11170101a,4.86,96.7454,,,Kab. Bener Meriah,Aceh,PHOBS
+5425,Pos Hujan,11170102a,4.84,96.76,,,Kab. Bener Meriah,Aceh,PHOBS
+5426,Pos Hujan,11170201a,4.82645,96.9178,,,Kab. Bener Meriah,Aceh,PHOBS
+5427,Pos Hujan,11170301a,4.67,97.207,,,Kab. Bener Meriah,Aceh,PHOBS
+5428,Pos Hujan,11170401a,4.7531,96.896,,,Kab. Bener Meriah,Aceh,PHOBS
+5429,Pos Hujan,11170501a,4.72418,96.85362,,,Kab. Bener Meriah,Aceh,PHOBS
+5430,Pos Hujan,11170601a,4.72,96.8,,,Kab. Bener Meriah,Aceh,PHOBS
+5431,Pos Hujan,11170701a,4.75273,96.75003,,,Kab. Bener Meriah,Aceh,PHOBS
+5432,Pos Hujan,11170801a,4.77421,96.92,,,Kab. Bener Meriah,Aceh,PHOBS
+5433,Pos Hujan,11170901a,4.76736,97.03,,,Kab. Bener Meriah,Aceh,PHOBS
+5434,Pos Hujan,11171001a,4.81201,96.76,,,Kab. Bener Meriah,Aceh,PHOBS
+5435,Pos Hujan,11180101a,5.232,96.247,,,Kab. Pidie Jaya,Aceh,PHOBS
+5436,Pos Hujan,11180201a,5.23,96.29,,,Kab. Pidie Jaya,Aceh,PHOBS
+5437,Pos Hujan,11180301a,5.22,96.32,,,Kab. Pidie Jaya,Aceh,PHOBS
+5438,Pos Hujan,11180401a,5.18499,96.32486,,,Kab. Pidie Jaya,Aceh,PHOBS
+5439,Pos Hujan,11180501a,5.24,96.26,,,Kab. Pidie Jaya,Aceh,PHOBS
+5440,Pos Hujan,11180601a,5.28,96.11,,,Kab. Pidie Jaya,Aceh,PHOBS
+5441,Pos Hujan,11180801a,5.2582,96.1844,,,Kab. Pidie Jaya,Aceh,PHOBS
+5442,Pos Hujan,11710101a,5.54582,95.31965,,,Kota Banda Aceh,Aceh,PHOBS
+5443,Pos Hujan,11710201a,5.5599,95.33008,,,Kota Banda Aceh,Aceh,PHOBS
+5444,Pos Hujan,11710301a,5.5429,95.2869,,,Kota Banda Aceh,Aceh,PHOBS
+5445,Pos Hujan,11710401a,5.58,95.35,,,Kota Banda Aceh,Aceh,PHOBS
+5446,Pos Hujan,11710501a,5.54027,95.33955,,,Kota Banda Aceh,Aceh,PHOBS
+5447,Pos Hujan,11710601a,5.5715,95.3416,,,Kota Banda Aceh,Aceh,PHOBS
+5448,Pos Hujan,11710701a,5.52321,95.3103,,,Kota Banda Aceh,Aceh,PHOBS
+5449,Pos Hujan,11710801a,5.535,95.3,,,Kota Banda Aceh,Aceh,PHOBS
+5450,Pos Hujan,11710901a,5.54,95.35,,,Kota Banda Aceh,Aceh,PHOBS
+5451,Pos Hujan,11720101a,5.85157,95.32,,,Kota Sabang,Aceh,PHOBS
+5452,Pos Hujan,11720201a,5.8898,95.3281,,,Kota Sabang,Aceh,PHOBS
+5453,Pos Hujan,11720202a,5.84188,95.34,,,Kota Sabang,Aceh,PHOBS
+5454,Pos Hujan,11740101a,4.45829,98.00282,,,Kota Langsa,Aceh,PHOBS
+5455,Pos Hujan,11740201a,4.50709,97.95087,,,Kota Langsa,Aceh,PHOBS
+5456,Pos Hujan,11740301a,4.5,98.0,,,Kota Langsa,Aceh,PHOBS
+5457,Pos Hujan,11740401a,4.467,97.96,,,Kota Langsa,Aceh,PHOBS
+5458,Pos Hujan,11750101a,2.65532,97.98477,,,Kota Subulussalamuu,Aceh,PHOBS
+5459,Pos Hujan,11750201a,2.61134,98.02001,,,Kota Subulussalamuu,Aceh,PHOBS
+5460,Pos Hujan,11750301a,2.66892,97.87927,,,Kota Subulussalamuu,Aceh,PHOBS
+5461,Pos Hujan,11750401a,2.712,97.979,,,Kota Subulussalamuu,Aceh,PHOBS
+5462,Pos Hujan,11750501a,2.642,97.987,,,Kota Subulussalamuu,Aceh,PHOBS
 5463,Pos Hujan,12010101a,2.013,98.399,,,Kab. Tapanuli Tengah,Sumatera Utara,PHOBS
 5464,Pos Hujan,12010201a,1.9,98.58,,,Kab. Tapanuli Tengah,Sumatera Utara,PHOBS
 5465,Pos Hujan,12010202a,1.9,98.6,,,Kab. Tapanuli Tengah,Sumatera Utara,PHOBS
@@ -6752,23 +6752,23 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6751,Pos Hujan,51050403a,-8.56763,115.44465,,,Kab. Klungkung,Bali,PHOBS
 6752,Pos Hujan,51710302a,-8.67743,115.20975,,,Kota Denpasar,Bali,PHOBS
 6753,Pos Hujan,75050701a,0.5233,122.5599,,,Kab. Gorontalo Utara,Gorontalo,PHOBS
-6754,Pos Hujan,11060402a,5.37025,95.56333,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-6755,Pos Hujan,11060302a,5.40368,95.46479,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-6756,Pos Hujan,11140401b,4.81784,95.43732,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-6757,Pos Hujan,11160702a,4.26483,97.8836,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-6758,Pos Hujan,11160703a,4.18493,97.93623,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-6759,Pos Hujan,11030302a,4.95245,97.76107,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-6760,Pos Hujan,11030601a,5.03305,97.65054,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-6761,Pos Hujan,11082001a,4.99,97.23,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-6762,Pos Hujan,11082201a,5.09,97.12,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-6763,Pos Hujan,11170402a,4.75137,96.90066,,,Kab. Bener Meriah,Nanggroe Aceh Darussalam,PHOBS
-6764,Pos Hujan,11730201a,5.2,97.13,,,Kota Lhokseumawe,Nanggroe Aceh Darussalam,PHOBS
-6765,Pos Hujan,11150402a,4.25541,96.42532,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-6766,Pos Hujan,11150702a,4.07098,96.2934,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-6767,Pos Hujan,11150703a,4.04896,96.24785,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-6768,Pos Hujan,11161002a,4.26709,97.83284,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-6769,Pos Hujan,11151001a,4.46278,96.51091,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-6770,Pos Hujan,11050902a,4.113,96.213,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
+6754,Pos Hujan,11060402a,5.37025,95.56333,,,Kab. Aceh Besar,Aceh,PHOBS
+6755,Pos Hujan,11060302a,5.40368,95.46479,,,Kab. Aceh Besar,Aceh,PHOBS
+6756,Pos Hujan,11140401b,4.81784,95.43732,,,Kab. Aceh Jaya,Aceh,PHOBS
+6757,Pos Hujan,11160702a,4.26483,97.8836,,,Kab. Aceh Tamiang,Aceh,PHOBS
+6758,Pos Hujan,11160703a,4.18493,97.93623,,,Kab. Aceh Tamiang,Aceh,PHOBS
+6759,Pos Hujan,11030302a,4.95245,97.76107,,,Kab. Aceh Timur,Aceh,PHOBS
+6760,Pos Hujan,11030601a,5.03305,97.65054,,,Kab. Aceh Timur,Aceh,PHOBS
+6761,Pos Hujan,11082001a,4.99,97.23,,,Kab. Aceh Utara,Aceh,PHOBS
+6762,Pos Hujan,11082201a,5.09,97.12,,,Kab. Aceh Utara,Aceh,PHOBS
+6763,Pos Hujan,11170402a,4.75137,96.90066,,,Kab. Bener Meriah,Aceh,PHOBS
+6764,Pos Hujan,11730201a,5.2,97.13,,,Kota Lhokseumawe,Aceh,PHOBS
+6765,Pos Hujan,11150402a,4.25541,96.42532,,,Kab. Nagan Raya,Aceh,PHOBS
+6766,Pos Hujan,11150702a,4.07098,96.2934,,,Kab. Nagan Raya,Aceh,PHOBS
+6767,Pos Hujan,11150703a,4.04896,96.24785,,,Kab. Nagan Raya,Aceh,PHOBS
+6768,Pos Hujan,11161002a,4.26709,97.83284,,,Kab. Aceh Tamiang,Aceh,PHOBS
+6769,Pos Hujan,11151001a,4.46278,96.51091,,,Kab. Nagan Raya,Aceh,PHOBS
+6770,Pos Hujan,11050902a,4.113,96.213,,,Kab. Aceh Barat,Aceh,PHOBS
 6771,Pos Hujan,82051301a,-1.835,125.489,,,Kab. Kepulauan Sula,Maluku Utara,PHOBS
 6772,Pos Hujan,82050301a,-2.11416,125.87056,,,Kab. Kepulauan Sula,Maluku Utara,PHOBS
 6773,Pos Hujan,17032001a,-3.45993,102.08663,,,Kab. Bengkulu Utara,Bengkulu,PHOBS
@@ -7040,63 +7040,63 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7039,Pos Hujan,13010803Z,-1.437,100.73,,,Kab. Pesisir Selatan,Sumatera Barat,PHOBS
 7040,Pos Hujan,13110701a,-1.48,101.43,,,Kab. Solok Selatan,Sumatera Barat,PHOBS
 7041,Pos Hujan,72080101a,-0.81,120.17,,,Kab. Parigi Moutong,Sulawesi Tengah,PHOBS
-7042,Pos Hujan,11050302a,4.52093,96.13283,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-7043,Pos Hujan,11050202a,4.31131,96.20003,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-7044,Pos Hujan,11050203a,4.22752,96.16491,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-7045,Pos Hujan,11120701a,3.58942,96.93697,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-7046,Pos Hujan,11120102a,3.749,96.84832,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-7047,Pos Hujan,11062301b,5.4997,95.40561,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7048,Pos Hujan,11060301a,5.42,95.42,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7049,Pos Hujan,11061701b,5.4391,95.4041,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7050,Pos Hujan,11061402f,5.35738,95.66519,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7051,Pos Hujan,11061401h,5.45,95.73,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7052,Pos Hujan,11060601a,5.46731,95.37,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7053,Pos Hujan,11062101a,5.53603,95.36989,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7054,Pos Hujan,11060303a,5.422,95.45833,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7055,Pos Hujan,11061602a,5.36361,95.49589,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7056,Pos Hujan,11140701a,5.05003,95.365,,,Kab. Aceh Jaya,Nanggroe Aceh Darussalam,PHOBS
-7057,Pos Hujan,11011701a,2.99927,97.51527,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-7058,Pos Hujan,11100202a,2.4185,97.98029,,,Kab. Aceh Singkil,Nanggroe Aceh Darussalam,PHOBS
-7059,Pos Hujan,11160302a,4.34222,98.01111,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-7060,Pos Hujan,11160602a,4.16826,98.05483,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-7061,Pos Hujan,11160704a,4.16417,97.95225,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-7062,Pos Hujan,11040202a,4.60835,96.72867,,,Kab. Aceh Tengah,Nanggroe Aceh Darussalam,PHOBS
-7063,Pos Hujan,11130701a,3.7405,97.61631,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-7064,Pos Hujan,11031401a,4.91,97.72,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-7065,Pos Hujan,11032402a,4.63493,97.6803,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-7066,Pos Hujan,11081901a,5.11911,97.36473,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7067,Pos Hujan,11082601a,5.19357,96.96654,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7068,Pos Hujan,11081702a,4.955,97.354,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7069,Pos Hujan,11081703a,4.928,97.37,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7070,Pos Hujan,11082301a,5.16223,97.29945,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7071,Pos Hujan,11081601a,5.16792,97.01349,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7072,Pos Hujan,11082701a,5.07538,96.94248,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7073,Pos Hujan,11082401a,5.01,97.29,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7074,Pos Hujan,11080801a,5.13917,97.22666,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7075,Pos Hujan,11080901a,5.2,97.44,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7076,Pos Hujan,11081401a,5.09,97.47,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7077,Pos Hujan,11081301a,5.13018,97.24741,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7078,Pos Hujan,11081802a,4.90393,97.47912,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7079,Pos Hujan,11081402a,5.127,97.4591,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7080,Pos Hujan,11710402a,5.566,95.343,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-7081,Pos Hujan,11710502a,5.539,95.336,,,Kota Banda Aceh,Nanggroe Aceh Darussalam,PHOBS
-7082,Pos Hujan,11130102a,3.99798,97.3223,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-7083,Pos Hujan,11740502a,4.47148,97.95786,,,Kota Langsa,Nanggroe Aceh Darussalam,PHOBS
-7084,Pos Hujan,11750402a,2.81428,97.87427,,,Kota Subulussalamuu,Nanggroe Aceh Darussalam,PHOBS
-7085,Pos Hujan,11730101a,5.1305,97.15007,,,Kota Lhokseumawe,Nanggroe Aceh Darussalam,PHOBS
-7086,Pos Hujan,11150502a,3.97031,96.56728,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-7087,Pos Hujan,11150102a,4.059,96.26,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-7088,Pos Hujan,11151301a,4.25881,96.34037,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-7089,Pos Hujan,11150503a,4.054,96.588,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-7090,Pos Hujan,11150504a,3.973,96.653,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-7091,Pos Hujan,11070701a,5.3182,95.95132,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-7092,Pos Hujan,11073101a,5.2338,95.91185,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-7093,Pos Hujan,11072202a,5.22047,95.85882,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-7094,Pos Hujan,11071902a,5.10047,95.89564,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-7095,Pos Hujan,11071702a,5.269,95.9296,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-7096,Pos Hujan,11180102a,5.23469,96.24748,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-7097,Pos Hujan,11180502a,5.17656,96.2391,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
-7098,Pos Hujan,11720102a,5.84442,95.32014,,,Kota Sabang,Nanggroe Aceh Darussalam,PHOBS
+7042,Pos Hujan,11050302a,4.52093,96.13283,,,Kab. Aceh Barat,Aceh,PHOBS
+7043,Pos Hujan,11050202a,4.31131,96.20003,,,Kab. Aceh Barat,Aceh,PHOBS
+7044,Pos Hujan,11050203a,4.22752,96.16491,,,Kab. Aceh Barat,Aceh,PHOBS
+7045,Pos Hujan,11120701a,3.58942,96.93697,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+7046,Pos Hujan,11120102a,3.749,96.84832,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+7047,Pos Hujan,11062301b,5.4997,95.40561,,,Kab. Aceh Besar,Aceh,PHOBS
+7048,Pos Hujan,11060301a,5.42,95.42,,,Kab. Aceh Besar,Aceh,PHOBS
+7049,Pos Hujan,11061701b,5.4391,95.4041,,,Kab. Aceh Besar,Aceh,PHOBS
+7050,Pos Hujan,11061402f,5.35738,95.66519,,,Kab. Aceh Besar,Aceh,PHOBS
+7051,Pos Hujan,11061401h,5.45,95.73,,,Kab. Aceh Besar,Aceh,PHOBS
+7052,Pos Hujan,11060601a,5.46731,95.37,,,Kab. Aceh Besar,Aceh,PHOBS
+7053,Pos Hujan,11062101a,5.53603,95.36989,,,Kab. Aceh Besar,Aceh,PHOBS
+7054,Pos Hujan,11060303a,5.422,95.45833,,,Kab. Aceh Besar,Aceh,PHOBS
+7055,Pos Hujan,11061602a,5.36361,95.49589,,,Kab. Aceh Besar,Aceh,PHOBS
+7056,Pos Hujan,11140701a,5.05003,95.365,,,Kab. Aceh Jaya,Aceh,PHOBS
+7057,Pos Hujan,11011701a,2.99927,97.51527,,,Kab. Aceh Selatan,Aceh,PHOBS
+7058,Pos Hujan,11100202a,2.4185,97.98029,,,Kab. Aceh Singkil,Aceh,PHOBS
+7059,Pos Hujan,11160302a,4.34222,98.01111,,,Kab. Aceh Tamiang,Aceh,PHOBS
+7060,Pos Hujan,11160602a,4.16826,98.05483,,,Kab. Aceh Tamiang,Aceh,PHOBS
+7061,Pos Hujan,11160704a,4.16417,97.95225,,,Kab. Aceh Tamiang,Aceh,PHOBS
+7062,Pos Hujan,11040202a,4.60835,96.72867,,,Kab. Aceh Tengah,Aceh,PHOBS
+7063,Pos Hujan,11130701a,3.7405,97.61631,,,Kab. Gayo Lues,Aceh,PHOBS
+7064,Pos Hujan,11031401a,4.91,97.72,,,Kab. Aceh Timur,Aceh,PHOBS
+7065,Pos Hujan,11032402a,4.63493,97.6803,,,Kab. Aceh Timur,Aceh,PHOBS
+7066,Pos Hujan,11081901a,5.11911,97.36473,,,Kab. Aceh Utara,Aceh,PHOBS
+7067,Pos Hujan,11082601a,5.19357,96.96654,,,Kab. Aceh Utara,Aceh,PHOBS
+7068,Pos Hujan,11081702a,4.955,97.354,,,Kab. Aceh Utara,Aceh,PHOBS
+7069,Pos Hujan,11081703a,4.928,97.37,,,Kab. Aceh Utara,Aceh,PHOBS
+7070,Pos Hujan,11082301a,5.16223,97.29945,,,Kab. Aceh Utara,Aceh,PHOBS
+7071,Pos Hujan,11081601a,5.16792,97.01349,,,Kab. Aceh Utara,Aceh,PHOBS
+7072,Pos Hujan,11082701a,5.07538,96.94248,,,Kab. Aceh Utara,Aceh,PHOBS
+7073,Pos Hujan,11082401a,5.01,97.29,,,Kab. Aceh Utara,Aceh,PHOBS
+7074,Pos Hujan,11080801a,5.13917,97.22666,,,Kab. Aceh Utara,Aceh,PHOBS
+7075,Pos Hujan,11080901a,5.2,97.44,,,Kab. Aceh Utara,Aceh,PHOBS
+7076,Pos Hujan,11081401a,5.09,97.47,,,Kab. Aceh Utara,Aceh,PHOBS
+7077,Pos Hujan,11081301a,5.13018,97.24741,,,Kab. Aceh Utara,Aceh,PHOBS
+7078,Pos Hujan,11081802a,4.90393,97.47912,,,Kab. Aceh Utara,Aceh,PHOBS
+7079,Pos Hujan,11081402a,5.127,97.4591,,,Kab. Aceh Utara,Aceh,PHOBS
+7080,Pos Hujan,11710402a,5.566,95.343,,,Kota Banda Aceh,Aceh,PHOBS
+7081,Pos Hujan,11710502a,5.539,95.336,,,Kota Banda Aceh,Aceh,PHOBS
+7082,Pos Hujan,11130102a,3.99798,97.3223,,,Kab. Gayo Lues,Aceh,PHOBS
+7083,Pos Hujan,11740502a,4.47148,97.95786,,,Kota Langsa,Aceh,PHOBS
+7084,Pos Hujan,11750402a,2.81428,97.87427,,,Kota Subulussalamuu,Aceh,PHOBS
+7085,Pos Hujan,11730101a,5.1305,97.15007,,,Kota Lhokseumawe,Aceh,PHOBS
+7086,Pos Hujan,11150502a,3.97031,96.56728,,,Kab. Nagan Raya,Aceh,PHOBS
+7087,Pos Hujan,11150102a,4.059,96.26,,,Kab. Nagan Raya,Aceh,PHOBS
+7088,Pos Hujan,11151301a,4.25881,96.34037,,,Kab. Nagan Raya,Aceh,PHOBS
+7089,Pos Hujan,11150503a,4.054,96.588,,,Kab. Nagan Raya,Aceh,PHOBS
+7090,Pos Hujan,11150504a,3.973,96.653,,,Kab. Nagan Raya,Aceh,PHOBS
+7091,Pos Hujan,11070701a,5.3182,95.95132,,,Kab. Pidie,Aceh,PHOBS
+7092,Pos Hujan,11073101a,5.2338,95.91185,,,Kab. Pidie,Aceh,PHOBS
+7093,Pos Hujan,11072202a,5.22047,95.85882,,,Kab. Pidie,Aceh,PHOBS
+7094,Pos Hujan,11071902a,5.10047,95.89564,,,Kab. Pidie,Aceh,PHOBS
+7095,Pos Hujan,11071702a,5.269,95.9296,,,Kab. Pidie,Aceh,PHOBS
+7096,Pos Hujan,11180102a,5.23469,96.24748,,,Kab. Pidie Jaya,Aceh,PHOBS
+7097,Pos Hujan,11180502a,5.17656,96.2391,,,Kab. Pidie Jaya,Aceh,PHOBS
+7098,Pos Hujan,11720102a,5.84442,95.32014,,,Kota Sabang,Aceh,PHOBS
 7099,Pos Hujan,19050603a,-1.645,105.507,,,Kab. Bangka Barat,Kep. Bangka Belitung,PHOBS
 7100,Pos Hujan,19060302a,-2.95,107.856,,,Kab. Belitung Timur,Kep. Bangka Belitung,PHOBS
 7101,Pos Hujan,15010702a,-2.13371,101.4048,,,Kab. Kerinci,Jambi,PHOBS
@@ -7327,7 +7327,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7326,Pos Hujan,72090402a,0.97193,-0.79801,,,Kab. Tojo Una Una,Sulawesi Tengah,PHOBS
 7327,Pos Hujan,72011601a,-0.79801,122.48858,,,Kab. Banggai,Sulawesi Tengah,PHOBS
 7328,Pos Hujan,72120801a,-1.76421,121.74196,,,Kab. Morowali Utara,Sulawesi Tengah,PHOBS
-7329,Pos Hujan,11060403a,5.49809,95.6159,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
+7329,Pos Hujan,11060403a,5.49809,95.6159,,,Kab. Aceh Besar,Aceh,PHOBS
 7330,Pos Hujan,72120901a,-1.65401,121.92376,,,Kab. Morowali Utara,Sulawesi Tengah,PHOBS
 7331,Pos Hujan,72090403a,-1.29699,122.01291,,,Kab. Tojo Una Una,Sulawesi Tengah,PHOBS
 7332,Pos Hujan,52032004a,-8.7898,116.4625,,,Kab. Lombok Timur,Nusa Tenggara Barat,PHOBS
@@ -7363,11 +7363,11 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7362,Pos Hujan,35231203a,-6.82,111.99,,,Kab. Tuban,Jawa Timur,PHOBS
 7363,Pos Hujan,35141004a,-7.70456,112.63533,,,Kab. Pasuruan,Jawa Timur,PHOBS
 7364,Pos Hujan,18030402a,-4.99741,104.69833,,,Kab. Lampung Utara,Lampung,PHOBS
-7365,Pos Hujan,11031801a,4.84105,97.87882,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
+7365,Pos Hujan,11031801a,4.84105,97.87882,,,Kab. Aceh Timur,Aceh,PHOBS
 7366,Pos Hujan,32111703a,-6.86259,107.92027,,,Kab. Sumedang,Jawa Barat,PHOBS
 7367,Pos Hujan,32083101a,-6.96255,108.53515,,,Kab. Kuningan,Jawa Barat,PHOBS
 7368,Pos Hujan,32083201a,-6.87936,108.52327,,,Kab. Kuningan,Jawa Barat,PHOBS
-7369,Pos Hujan,11082501a,4.98967,97.11271,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
+7369,Pos Hujan,11082501a,4.98967,97.11271,,,Kab. Aceh Utara,Aceh,PHOBS
 7370,Pos Hujan,91200101a,-2.27854,138.03806,,,Kab. Mamberamo Raya,Papua,PHOBS
 7371,Pos Hujan,18061502a,-5.20383,104.46058,,,Kab. Tanggamus,Lampung,PHOBS
 7372,Pos Hujan,18062602a,-5.19466,104.65768,,,Kab. Tanggamus,Lampung,PHOBS
@@ -7392,10 +7392,10 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7391,Pos Hujan,32151410a,-6.36807,107.54388,,,Kab. Karawang,Jawa Barat,PHOBS
 7392,Pos Hujan,35211003e,-7.409,111.372,,,Kab. Ngawi,Jawa Timur,PHOBS
 7393,Pos Hujan,35201102e,-7.62,111.44,,,Kab. Magetan,Jawa Timur,PHOBS
-7394,Pos Hujan,11060902a,5.54135,95.5113,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7395,Pos Hujan,11061102a,5.52244,95.41702,,,Kab. Aceh Besar,Nanggroe Aceh Darussalam,PHOBS
-7396,Pos Hujan,11080603a,5.2286,96.94713,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7397,Pos Hujan,11720204a,5.87654,95.33785,,,Kota Sabang,Nanggroe Aceh Darussalam,PHOBS
+7394,Pos Hujan,11060902a,5.54135,95.5113,,,Kab. Aceh Besar,Aceh,PHOBS
+7395,Pos Hujan,11061102a,5.52244,95.41702,,,Kab. Aceh Besar,Aceh,PHOBS
+7396,Pos Hujan,11080603a,5.2286,96.94713,,,Kab. Aceh Utara,Aceh,PHOBS
+7397,Pos Hujan,11720204a,5.87654,95.33785,,,Kota Sabang,Aceh,PHOBS
 7398,Pos Hujan,12111501a,2.73,98.37,,,Kab. Dairi,Sumatera Utara,PHOBS
 7399,Pos Hujan,12070901a,3.35605,98.79641,,,Kab. Deli Serdang,Sumatera Utara,PHOBS
 7400,Pos Hujan,12073302a,3.6421,98.82872,,,Kab. Deli Serdang,Sumatera Utara,PHOBS
@@ -7494,20 +7494,20 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7493,Pos Hujan,62030402a,-3.29727,114.32538,,,Kab. Kapuas,Kalimantan Tengah,PHOBS
 7494,Pos Hujan,62030102a,-2.99917,114.3925,,,Kab. Kapuas,Kalimantan Tengah,PHOBS
 7495,Pos Hujan,62030302a,-3.07718,114.44157,,,Kab. Kapuas,Kalimantan Tengah,PHOBS
-7496,Pos Hujan,11010802a,3.17356,97.28613,,,Kab. Aceh Selatan,Nanggroe Aceh Darussalam,PHOBS
-7497,Pos Hujan,11031302a,4.91638,97.59152,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-7498,Pos Hujan,11032201a,5.01,97.62,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-7499,Pos Hujan,11051102a,4.47,96.09,,,Kab. Aceh Barat,Nanggroe Aceh Darussalam,PHOBS
-7500,Pos Hujan,11070301a,5.427,95.883,,,Kab. Pidie,Nanggroe Aceh Darussalam,PHOBS
-7501,Pos Hujan,11080301a,5.098,97.069,,,Kab. Aceh Utara,Nanggroe Aceh Darussalam,PHOBS
-7502,Pos Hujan,11090701a,2.3322,96.40936,,,Kab. Simeulue,Nanggroe Aceh Darussalam,PHOBS
-7503,Pos Hujan,11111401a,5.22269,96.72679,,,Kab. Bireuen,Nanggroe Aceh Darussalam,PHOBS
-7504,Pos Hujan,11120602a,3.84592,96.74428,,,Kab. Aceh Barat Daya,Nanggroe Aceh Darussalam,PHOBS
-7505,Pos Hujan,11130402a,4.08249,97.0706,,,Kab. Gayo Lues,Nanggroe Aceh Darussalam,PHOBS
-7506,Pos Hujan,11150801a,4.096,96.4,,,Kab. Nagan Raya,Nanggroe Aceh Darussalam,PHOBS
-7507,Pos Hujan,11160603a,4.11617,97.98755,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-7508,Pos Hujan,11160604a,4.34222,98.06472,,,Kab. Aceh Tamiang,Nanggroe Aceh Darussalam,PHOBS
-7509,Pos Hujan,11730401a,5.197,97.082,,,Kota Lhokseumawe,Nanggroe Aceh Darussalam,PHOBS
+7496,Pos Hujan,11010802a,3.17356,97.28613,,,Kab. Aceh Selatan,Aceh,PHOBS
+7497,Pos Hujan,11031302a,4.91638,97.59152,,,Kab. Aceh Timur,Aceh,PHOBS
+7498,Pos Hujan,11032201a,5.01,97.62,,,Kab. Aceh Timur,Aceh,PHOBS
+7499,Pos Hujan,11051102a,4.47,96.09,,,Kab. Aceh Barat,Aceh,PHOBS
+7500,Pos Hujan,11070301a,5.427,95.883,,,Kab. Pidie,Aceh,PHOBS
+7501,Pos Hujan,11080301a,5.098,97.069,,,Kab. Aceh Utara,Aceh,PHOBS
+7502,Pos Hujan,11090701a,2.3322,96.40936,,,Kab. Simeulue,Aceh,PHOBS
+7503,Pos Hujan,11111401a,5.22269,96.72679,,,Kab. Bireuen,Aceh,PHOBS
+7504,Pos Hujan,11120602a,3.84592,96.74428,,,Kab. Aceh Barat Daya,Aceh,PHOBS
+7505,Pos Hujan,11130402a,4.08249,97.0706,,,Kab. Gayo Lues,Aceh,PHOBS
+7506,Pos Hujan,11150801a,4.096,96.4,,,Kab. Nagan Raya,Aceh,PHOBS
+7507,Pos Hujan,11160603a,4.11617,97.98755,,,Kab. Aceh Tamiang,Aceh,PHOBS
+7508,Pos Hujan,11160604a,4.34222,98.06472,,,Kab. Aceh Tamiang,Aceh,PHOBS
+7509,Pos Hujan,11730401a,5.197,97.082,,,Kota Lhokseumawe,Aceh,PHOBS
 7510,Pos Hujan,19010205a,-1.5573,105.8488,,,Kab. Bangka,Kep. Bangka Belitung,PHOBS
 7511,Pos Hujan,19010406a,-2.09831,105.9095,,,Kab. Bangka,Kep. Bangka Belitung,PHOBS
 7512,Pos Hujan,19010705a,-1.83535,105.8333,,,Kab. Bangka,Kep. Bangka Belitung,PHOBS
@@ -7551,8 +7551,8 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7550,Pos Hujan,18021802a,-4.56352,105.64648,,,Kab. Lampung Tengah,Lampung,PHOBS
 7551,Pos Hujan,18120702a,-4.40672,105.20604,,,Kab. Tulang Bawang Barat,Lampung,PHOBS
 7552,Pos Hujan,34010104a,-7.90343,110.06707,,,Kab. Kulon Progo,DI Yogyakarta,PHOBS
-7553,Pos Hujan,11030502a,4.3975,97.52583,,,Kab. Aceh Timur,Nanggroe Aceh Darussalam,PHOBS
-7554,Pos Hujan,11180701a,5.24421,96.1284,,,Kab. Pidie Jaya,Nanggroe Aceh Darussalam,PHOBS
+7553,Pos Hujan,11030502a,4.3975,97.52583,,,Kab. Aceh Timur,Aceh,PHOBS
+7554,Pos Hujan,11180701a,5.24421,96.1284,,,Kab. Pidie Jaya,Aceh,PHOBS
 7555,Pos Hujan,53061901a,-8.48233,123.01244,,,Kab. Flores Timur,Nusa Tenggara Timur,PHOBS
 7556,Pos Hujan,82070501a,2.37865,128.66304,,,Kab. Pulau Morotai,Maluku Utara,PHOBS
 7557,Pos Hujan,82080101a,-1.94915,124.3847,,,Kab. Pulau Taliabu,Maluku Utara,PHOBS
@@ -7997,25 +7997,25 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 374,ARG,STAL241,4.15149,117.88985,Pancang,Sebatik Utara,Kab. Nunukan,Kalimantan Utara,ARG
 375,ARG,STAL242,3.468075,117.847168,Desa Bunyu Barat,Bunyu,Kab. Bulungan,Kalimantan Utara,ARG
 376,ARG,STG1020,3.953592,116.970537,Kunyit,Sebuku,Kab. Nunukan,Kalimantan Utara,ARG
-377,ARG,150139,-2.684166,106.3883,Air Gegas,Air Gegas,Kab. Bangka Selatan,Kepulauan Bangka Belitung,ARG
-378,ARG,150140,-1.650138,105.7842,Kuto Panji,Belinyu,Kab. Bangka,Kepulauan Bangka Belitung,ARG
-379,ARG,150141,-2.064166,105.1669,Sungai Daeng,Muntok,Kab. Bangka Barat,Kepulauan Bangka Belitung,ARG
-380,ARG,150181,-1.642863,105.506404,Kelabat,Parittiga,Kab. Bangka Barat,Kepulauan Bangka Belitung,ARG
-381,ARG,150182,-1.924949,106.026982,Air Duren,Pemali,Kab. Bangka,Kepulauan Bangka Belitung,ARG
-382,ARG,150183,-2.363524,106.000787,Sungai Selan,Sungai Selan,Kab. Bangka Tengah,Kepulauan Bangka Belitung,ARG
-383,ARG,150184,-2.6099,106.1476,Payung,Payung,Kab. Bangka Selatan,Kepulauan Bangka Belitung,ARG
-384,ARG,150185,-3.034014,106.71283,Pasir Putih,Tukak Sadai,Kab. Bangka Selatan,Kepulauan Bangka Belitung,ARG
-385,ARG,150279,-2.543,106.668,Lubuk Besar,Lubuk Besar,Kab. Bangka Tengah,Kepulauan Bangka Belitung,ARG
-386,ARG,150280,-1.995,105.955,Puding Besar,Puding besar,Kab. Bangka,Kepulauan Bangka Belitung,ARG
-387,ARG,150292,-2.136,106.087,Kace timur,Mendo Barat,Kab. Bangka,Kepulauan Bangka Belitung,ARG
-388,ARG,STAL091,-2.698,107.6775167,Air Seru,Sijuk,Kab. Belitung,Kepulauan Bangka Belitung,ARG
-389,ARG,STAL092,-3.0715906,107.9031746,Dendang,Dendang,Kab. Belitung Timur,Kepulauan Bangka Belitung,ARG
-390,ARG,150150,-0.486056,104.571937,Tanjung Harapan,Singkep,Kab. Lingga,Kepulauan Riau,ARG
-391,ARG,150151,0.852616,104.541523,Gunung Lengkuas,Bintan Timur,Kab. Bintan (Kep.Riau),Kepulauan Riau,ARG
-392,ARG,150152,1.007174,103.3522,Sungai Raya,Meral,Kab. Karimun,Kepulauan Riau,ARG
-393,ARG,150268,0.96434,104.046184,Pulau Setokok ,Bulang,Kota Batam,Kepulauan Riau,ARG
-394,ARG,150269,1.012567,104.469189,Tembeling,Teluk Buntan,Kab. Bintan (Kep.Riau),Kepulauan Riau,ARG
-395,ARG,STG1016,-0.208055,104.598611,Daik,Lingga,Kab. Lingga,Kepulauan Riau,ARG
+377,ARG,150139,-2.684166,106.3883,Air Gegas,Air Gegas,Kab. Bangka Selatan,Kep. Bangka Belitung,ARG
+378,ARG,150140,-1.650138,105.7842,Kuto Panji,Belinyu,Kab. Bangka,Kep. Bangka Belitung,ARG
+379,ARG,150141,-2.064166,105.1669,Sungai Daeng,Muntok,Kab. Bangka Barat,Kep. Bangka Belitung,ARG
+380,ARG,150181,-1.642863,105.506404,Kelabat,Parittiga,Kab. Bangka Barat,Kep. Bangka Belitung,ARG
+381,ARG,150182,-1.924949,106.026982,Air Duren,Pemali,Kab. Bangka,Kep. Bangka Belitung,ARG
+382,ARG,150183,-2.363524,106.000787,Sungai Selan,Sungai Selan,Kab. Bangka Tengah,Kep. Bangka Belitung,ARG
+383,ARG,150184,-2.6099,106.1476,Payung,Payung,Kab. Bangka Selatan,Kep. Bangka Belitung,ARG
+384,ARG,150185,-3.034014,106.71283,Pasir Putih,Tukak Sadai,Kab. Bangka Selatan,Kep. Bangka Belitung,ARG
+385,ARG,150279,-2.543,106.668,Lubuk Besar,Lubuk Besar,Kab. Bangka Tengah,Kep. Bangka Belitung,ARG
+386,ARG,150280,-1.995,105.955,Puding Besar,Puding besar,Kab. Bangka,Kep. Bangka Belitung,ARG
+387,ARG,150292,-2.136,106.087,Kace timur,Mendo Barat,Kab. Bangka,Kep. Bangka Belitung,ARG
+388,ARG,STAL091,-2.698,107.6775167,Air Seru,Sijuk,Kab. Belitung,Kep. Bangka Belitung,ARG
+389,ARG,STAL092,-3.0715906,107.9031746,Dendang,Dendang,Kab. Belitung Timur,Kep. Bangka Belitung,ARG
+390,ARG,150150,-0.486056,104.571937,Tanjung Harapan,Singkep,Kab. Lingga,Kep. Riau,ARG
+391,ARG,150151,0.852616,104.541523,Gunung Lengkuas,Bintan Timur,Kab. Bintan (Kep.Riau),Kep. Riau,ARG
+392,ARG,150152,1.007174,103.3522,Sungai Raya,Meral,Kab. Karimun,Kep. Riau,ARG
+393,ARG,150268,0.96434,104.046184,Pulau Setokok ,Bulang,Kota Batam,Kep. Riau,ARG
+394,ARG,150269,1.012567,104.469189,Tembeling,Teluk Buntan,Kab. Bintan (Kep.Riau),Kep. Riau,ARG
+395,ARG,STG1016,-0.208055,104.598611,Daik,Lingga,Kab. Lingga,Kep. Riau,ARG
 396,ARG,14032796,-4.61377,104.63724,Negeri Agung,Blambangan Umpu,Kab. Way Kanan,Lampung,ARG
 397,ARG,14032797,-4.61264,105.23633,Astra Kestra,Menggala,Kab. Tulang Bawang,Lampung,ARG
 398,ARG,14032799,-5.03822,104.09588,Sabarus,Balik Bukit,Kab. Lampung Barat,Lampung,ARG
@@ -8063,25 +8063,25 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 440,ARG,STA0231,2.05,128.31666,Darame,Morotai Selatan,Kab. Morotai ,Maluku Utara,ARG
 441,ARG,STAL321,1.734923,127.990773,,Tobelo,Kab. Halmahera Utara,Maluku Utara,ARG
 442,ARG,STAL322,0.68919444,128.2930556,Soa Gimalaha,Maba,Kab. Halmahera Timur,Maluku Utara,ARG
-443,ARG,150251,4.47508,95.79156,Tanoh manyang,Teunom,Kab. Aceh Jaya,Nanggroe Aceh Darusalam,ARG
-444,ARG,150252,3.1342484,97.3119289,Teupin gajah,Pasie Raja,Kab. Aceh Selatan,Nanggroe Aceh Darusalam,ARG
-445,ARG,150253,2.658597,97.998193,Lae oram,Simpang kiri,Kota Subulussalam,Nanggroe Aceh Darusalam,ARG
-446,ARG,150254,2.37415,97.97392,Siderejo,Gunung meriah,Kab. Aceh Singkil,Nanggroe Aceh Darusalam,ARG
-447,ARG,150255,5.854878,95.267318,Iboih,Suka Karya,Kota Saban,Nanggroe Aceh Darusalam,ARG
-448,ARG,150256,4.492817,97.937479,Pondok Kelapa,Langsa Baro,Kota Langsa,Nanggroe Aceh Darusalam,ARG
-449,ARG,150257,4.919339,97.370514,Cot Girek,Cot Girek,Kab. Aceh Utara,Nanggroe Aceh Darusalam,ARG
-450,ARG,150258,4.342116,98.064792,Kebun Medang Ara,Karang Baru,Kab. Aceh Tamiang,Nanggroe Aceh Darusalam,ARG
-451,ARG,STA0016,4.924452,97.785654,Titi Baro,Idi Rayeuk,Kab. Aceh Timur,Nanggroe Aceh Darusalam,ARG
-452,ARG,STA0142,4.595641,96.808088,Lukup Badak,Pegasing,Kab. Aceh Tengah,Nanggroe Aceh Darusalam,ARG
-453,ARG,STA0159,3.66756,96.90368,Suak Labu,Tangan-Tangan,Kab. Aceh Barat Daya,Nanggroe Aceh Darusalam,ARG
-454,ARG,STA0161,3.29773,97.9642,Lawe Bekung,Babul Makmur,Kab. Aceh Tenggara,Nanggroe Aceh Darusalam,ARG
-455,ARG,STA0258,2.44389,96.37528,Suak Buluh,Simeulue Timur,Kab. Simeulue,Nanggroe Aceh Darusalam,ARG
-456,ARG,STA3255,5.43746,95.71528,Saree,Lembah Seulawah,Kab. Aceh Besar,Nanggroe Aceh Darusalam,ARG
-457,ARG,STA3256,4.753169,96.896356,,bandar,Kab. Bener Meriah,Nanggroe Aceh Darusalam,ARG
-458,ARG,STAL011,5.67046,95.12485,Lampuyang,Pulo Aceh,Kab. Aceh Besar,Nanggroe Aceh Darusalam,ARG
-459,ARG,STAL012,4.846328,96.132697,Leupu,Geumpang,Kab. Pidie,Nanggroe Aceh Darusalam,ARG
-460,ARG,STAL013,3.99798,97.3223,Gunyak,Blang Kejeren,Kab. Gayo Lues,Nanggroe Aceh Darusalam,ARG
-461,ARG,STAL014,5.526096,95.829112,Ujong Pie,Muara Tiga,Kab. Pidie,Nanggroe Aceh Darusalam,ARG
+443,ARG,150251,4.47508,95.79156,Tanoh manyang,Teunom,Kab. Aceh Jaya,Aceh,ARG
+444,ARG,150252,3.1342484,97.3119289,Teupin gajah,Pasie Raja,Kab. Aceh Selatan,Aceh,ARG
+445,ARG,150253,2.658597,97.998193,Lae oram,Simpang kiri,Kota Subulussalam,Aceh,ARG
+446,ARG,150254,2.37415,97.97392,Siderejo,Gunung meriah,Kab. Aceh Singkil,Aceh,ARG
+447,ARG,150255,5.854878,95.267318,Iboih,Suka Karya,Kota Saban,Aceh,ARG
+448,ARG,150256,4.492817,97.937479,Pondok Kelapa,Langsa Baro,Kota Langsa,Aceh,ARG
+449,ARG,150257,4.919339,97.370514,Cot Girek,Cot Girek,Kab. Aceh Utara,Aceh,ARG
+450,ARG,150258,4.342116,98.064792,Kebun Medang Ara,Karang Baru,Kab. Aceh Tamiang,Aceh,ARG
+451,ARG,STA0016,4.924452,97.785654,Titi Baro,Idi Rayeuk,Kab. Aceh Timur,Aceh,ARG
+452,ARG,STA0142,4.595641,96.808088,Lukup Badak,Pegasing,Kab. Aceh Tengah,Aceh,ARG
+453,ARG,STA0159,3.66756,96.90368,Suak Labu,Tangan-Tangan,Kab. Aceh Barat Daya,Aceh,ARG
+454,ARG,STA0161,3.29773,97.9642,Lawe Bekung,Babul Makmur,Kab. Aceh Tenggara,Aceh,ARG
+455,ARG,STA0258,2.44389,96.37528,Suak Buluh,Simeulue Timur,Kab. Simeulue,Aceh,ARG
+456,ARG,STA3255,5.43746,95.71528,Saree,Lembah Seulawah,Kab. Aceh Besar,Aceh,ARG
+457,ARG,STA3256,4.753169,96.896356,,bandar,Kab. Bener Meriah,Aceh,ARG
+458,ARG,STAL011,5.67046,95.12485,Lampuyang,Pulo Aceh,Kab. Aceh Besar,Aceh,ARG
+459,ARG,STAL012,4.846328,96.132697,Leupu,Geumpang,Kab. Pidie,Aceh,ARG
+460,ARG,STAL013,3.99798,97.3223,Gunyak,Blang Kejeren,Kab. Gayo Lues,Aceh,ARG
+461,ARG,STAL014,5.526096,95.829112,Ujong Pie,Muara Tiga,Kab. Pidie,Aceh,ARG
 462,ARG,13122303,-8.772888889,116.0528444,Cendi Manik,Sekotong,Kab. Lombok Barat,Nusa Tenggara Barat,ARG
 463,ARG,14032780,-8.73489,116.203179,"Dusun Baleluwah, Kel. Darek",Praya Barat Daya,Kab. Lombok Tengah,Nusa Tenggara Barat,ARG
 464,ARG,14032781,-8.407027,116.114396,Dusun Terengan Tanak Ampar,Pemenang,Kab. Lombok Utara,Nusa Tenggara Barat,ARG
@@ -8535,23 +8535,23 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 209,AWS,160017,3.55052,116.622,Malinau Hulu,Malinau Kota,Kab. Malinau,Kalimantan Utara,AWS
 210,AWS,STA5173,2.8356828,117.3649626,Kel. Tanjung Selor Timur,Tanjung Selor,Kab. Bulungan,Kalimantan Utara,AWS
 211,AWS,STA5213,4.135,117.6658,,Nunukan,Kab. Nunukan,Kalimantan Utara,AWS
-212,AWS,14063049,-1.889633,105.7009,Kelapa,Kelapa,Kab. Bangka Barat,Kepulauan Bangka Belitung,AWS
-213,AWS,STA2162,-2.5183,106.4224,Koba,Koba,Kab. Bangka Tengah,Kepulauan Bangka Belitung,AWS
-214,AWS,STA2224,-1.630358,105.7429,,Belinyu,Kab. Bangka,Kepulauan Bangka Belitung,AWS
-215,AWS,STA5022,-2.161514,106.137057,Dul,Pangkalan Baru,Kota Pangkalpinang,Kepulauan Bangka Belitung,AWS
-216,AWS,STW1040,-2.11377,106.0163,Petaling,Mendo Barat,Kab. Bangka,Kepulauan Bangka Belitung,AWS
-217,AWS,160012,1.18188,104.4098,Teluk Sebung,Teluk Sebung,Kab. Bintan (Kep.Riau),Kepulauan Riau,AWS
-218,AWS,STA2230,1.1648583,103.996741,Batam,Batu Ampar,Kota Batam,Kepulauan Riau,AWS
-219,AWS,STA2245,1.133378,104.041748,Teluk Tering,Batam Kota,Kota Batam,Kepulauan Riau,AWS
-220,AWS,STA2246,1.06664625462,104.012368804,,Sei Beduk,Kota Batam,Kepulauan Riau,AWS
-221,AWS,STA2247,1.166893,104.096086,Sembau,Nongsa,Kota Batam,Kepulauan Riau,AWS
-222,AWS,STA2248,1.055323,103.926467,Tanjung Uncang,Batu Aji,Kota Batam,Kepulauan Riau,AWS
-223,AWS,STA2249,1.03597372572,104.060212391,Tanjung Paiyu,Sungai Beduk,Kota Batam,Kepulauan Riau,AWS
-224,AWS,STA2250,0.767699339187,104.190297359,Sijantung,Galang,Kota Batam,Kepulauan Riau,AWS
-225,AWS,STA2251,1.100491,103.953595,Tanjung Riau,Sekupang,Kota Batam,Kepulauan Riau,AWS
-226,AWS,STA2252,1.119524,104.007887,Baloi Indah,Lubuk Baja,Kota Batam,Kepulauan Riau,AWS
-227,AWS,STA2253,1.18311848551,104.01488725,Tanjung Sengkuang,Batu Ampar,Kota Batam,Kepulauan Riau,AWS
-228,AWS,STA5061,0.923199,104.52857,Pincang Kencana,Tanjug Pinang Timur,Kota Tanjung Pinang,Kepulauan Riau,AWS
+212,AWS,14063049,-1.889633,105.7009,Kelapa,Kelapa,Kab. Bangka Barat,Kep. Bangka Belitung,AWS
+213,AWS,STA2162,-2.5183,106.4224,Koba,Koba,Kab. Bangka Tengah,Kep. Bangka Belitung,AWS
+214,AWS,STA2224,-1.630358,105.7429,,Belinyu,Kab. Bangka,Kep. Bangka Belitung,AWS
+215,AWS,STA5022,-2.161514,106.137057,Dul,Pangkalan Baru,Kota Pangkalpinang,Kep. Bangka Belitung,AWS
+216,AWS,STW1040,-2.11377,106.0163,Petaling,Mendo Barat,Kab. Bangka,Kep. Bangka Belitung,AWS
+217,AWS,160012,1.18188,104.4098,Teluk Sebung,Teluk Sebung,Kab. Bintan (Kep.Riau),Kep. Riau,AWS
+218,AWS,STA2230,1.1648583,103.996741,Batam,Batu Ampar,Kota Batam,Kep. Riau,AWS
+219,AWS,STA2245,1.133378,104.041748,Teluk Tering,Batam Kota,Kota Batam,Kep. Riau,AWS
+220,AWS,STA2246,1.06664625462,104.012368804,,Sei Beduk,Kota Batam,Kep. Riau,AWS
+221,AWS,STA2247,1.166893,104.096086,Sembau,Nongsa,Kota Batam,Kep. Riau,AWS
+222,AWS,STA2248,1.055323,103.926467,Tanjung Uncang,Batu Aji,Kota Batam,Kep. Riau,AWS
+223,AWS,STA2249,1.03597372572,104.060212391,Tanjung Paiyu,Sungai Beduk,Kota Batam,Kep. Riau,AWS
+224,AWS,STA2250,0.767699339187,104.190297359,Sijantung,Galang,Kota Batam,Kep. Riau,AWS
+225,AWS,STA2251,1.100491,103.953595,Tanjung Riau,Sekupang,Kota Batam,Kep. Riau,AWS
+226,AWS,STA2252,1.119524,104.007887,Baloi Indah,Lubuk Baja,Kota Batam,Kep. Riau,AWS
+227,AWS,STA2253,1.18311848551,104.01488725,Tanjung Sengkuang,Batu Ampar,Kota Batam,Kep. Riau,AWS
+228,AWS,STA5061,0.923199,104.52857,Pincang Kencana,Tanjug Pinang Timur,Kota Tanjung Pinang,Kep. Riau,AWS
 229,AWS,10001,-5.935697,105.512807,,,Kab. Lampung Selatan,Lampung,AWS
 230,AWS,14063043,-5.06652,105.69169,Rajabasa Lama,Labuhan Ratu,Kab. Lampung Timur,Lampung,AWS
 231,AWS,160004,-5.172232,105.180371,Sidobasuki,Tegineneng,Kab. Pesawaran,Lampung,AWS
@@ -8578,15 +8578,15 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 252,AWS,STA2074,0.7658,127.3663,Tabona,Ternate Selatan,Kota Ternate,Maluku Utara,AWS
 253,AWS,STA2232,0.814072,127.389047,Dufa Dufa,Ternate utara,Kota Ternate,Maluku Utara,AWS
 254,AWS,STA2299,1.73611111,128.00444444,,Tobelo,Kab. Halmahera Utara,Maluku Utara,AWS
-255,AWS,160001,5.40358,95.464909,Lampanah Ranjo,Indrapuri,Kab. Aceh Besar,Nanggroe Aceh Darusalam,AWS
-256,AWS,STA2129,5.23193,95.89978,Paloh Teungoh,Keumala,Kab. Pidie,Nanggroe Aceh Darusalam,AWS
-257,AWS,STA2236,5.889736,95.31938,Kota bawah barat,sukakarya,Kota Saban,Nanggroe Aceh Darusalam,AWS
-258,AWS,STA3253,4.167592,97.947282,,tamiang hulu,Kab. Aceh Tamiang,Nanggroe Aceh Darusalam,AWS
-259,AWS,STA4016,4.621232,95.618912,,Kreund sabee,Kab. Aceh Jaya,Nanggroe Aceh Darusalam,AWS
-260,AWS,STA5011,5.521809,95.4171,Cot Mancang,Kuto Baro,Kab. Aceh Besar,Nanggroe Aceh Darusalam,AWS
-261,AWS,STW1038,4.724192,96.84668,Bale Atu,Bukit,Kab. Bener Meriah,Nanggroe Aceh Darusalam,AWS
-262,AWS,STW1044,2.276053,97.95536,Tanah Merah,Singkil ,Kab. Aceh Singkil,Nanggroe Aceh Darusalam,AWS
-263,AWS,STW1053,4.753208,96.896438,Pondok Gajah,Bandar,Kab. Bener Meriah,Nanggroe Aceh Darusalam,AWS
+255,AWS,160001,5.40358,95.464909,Lampanah Ranjo,Indrapuri,Kab. Aceh Besar,Aceh,AWS
+256,AWS,STA2129,5.23193,95.89978,Paloh Teungoh,Keumala,Kab. Pidie,Aceh,AWS
+257,AWS,STA2236,5.889736,95.31938,Kota bawah barat,sukakarya,Kota Saban,Aceh,AWS
+258,AWS,STA3253,4.167592,97.947282,,tamiang hulu,Kab. Aceh Tamiang,Aceh,AWS
+259,AWS,STA4016,4.621232,95.618912,,Kreund sabee,Kab. Aceh Jaya,Aceh,AWS
+260,AWS,STA5011,5.521809,95.4171,Cot Mancang,Kuto Baro,Kab. Aceh Besar,Aceh,AWS
+261,AWS,STW1038,4.724192,96.84668,Bale Atu,Bukit,Kab. Bener Meriah,Aceh,AWS
+262,AWS,STW1044,2.276053,97.95536,Tanah Merah,Singkil ,Kab. Aceh Singkil,Aceh,AWS
+263,AWS,STW1053,4.753208,96.896438,Pondok Gajah,Bandar,Kab. Bener Meriah,Aceh,AWS
 264,AWS,160042,-8.906511,117.739985,Sukadamai,Labangka,Kab. Sumbawa,Nusa Tenggara Barat,AWS
 265,AWS,STA2175,-8.73025,116.0737,Lembar,Lembar,Kab. Lombok Barat,Nusa Tenggara Barat,AWS
 266,AWS,STA2223,-8.39379,116.0994,Pemenang,Pemenang,Kab. Lombok Utara,Nusa Tenggara Barat,AWS
@@ -8777,7 +8777,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 72,AAWS,STA3046,-3.3977639,104.842417,Sidakersa,Kayu Agung,Kab. Ogan Komering Ilir,Sumatera Selatan,AAWS
 73,AAWS,AAWS0316,-3.653785,103.7763,Muara Lawai,Muara Enim,Kab. Muara Enim,Sumatera Selatan,AAWS
 74,AAWS,AAWS0315,-4.106389,104.7581,Gumawang BK 10 ,Belitang,Kab. Oku Timur,Sumatera Selatan,AAWS
-75,AAWS,AAWS0310,-2.968735,106.440384,Rias,Toboali,Kab. Bangka Selatan,Kepulauan Bangka Belitung,AAWS
+75,AAWS,AAWS0310,-2.968735,106.440384,Rias,Toboali,Kab. Bangka Selatan,Kep. Bangka Belitung,AAWS
 76,AAWS,AAWS0343,-3.886134,105.426831,Sidomulyo,Mesuji,Kab. Mesuji,Lampung,AAWS
 77,AAWS,STA3045,-5.372407,105.012726,Wates,Gading Rejo,Kab. Pringsewu,Lampung,AAWS
 78,AAWS,AAWS0313,-4.9450387,105.34627,Rejosari,Seputih Raman,Kab. Lampung Tengah,Lampung,AAWS
@@ -8820,7 +8820,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 10,ASRS,STA6016,-6.25,106.76,Pondok Betung,Pondok Aren,Kota Tangerang Selatan,Banten,ASRS
 11,ASRS,STA6007,-1.601111,103.49444,Sei,Jambi Luar Kota,Muaro Jambi,Jambi,ASRS
 12,ASRS,ASRS333,-5.17226,105.18037,Sidobasuki,Tegineneng,Pesawaran,Lampung,ASRS
-13,ASRS,STA6017,-2.5233,106.4167,Koba,Koba,Bangka Tengah,Kepulauan Bangka Belitung,ASRS
+13,ASRS,STA6017,-2.5233,106.4167,Koba,Koba,Bangka Tengah,Kep. Bangka Belitung,ASRS
 14,ASRS,STA6010,-7.716165,110.3354,Sendangadi,Mlati,Sleman,DI Yogyakarta,ASRS
 15,ASRS,STA6002,-3.46225,114.84084,Sei. Besar, Banjarbaru Selatan,Kota Banjarbaru,Kalimantan Selatan,ASRS
 16,ASRS,ASRS111,-8.6364,116.17049,Montong Are,Kediri,Lombok Barat,Nusa Tenggara Barat,ASRS
@@ -8840,7 +8840,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 30,ASRS,STA6025,-2.22805555555556,113.94622222222223,Pahandut,Panarung,Palangkaraya,Kalimantan Tengah,ASRS
 31,ASRS,STA6028,-2.66665667,118.8497631,Rangas,Simboro,Mamuju,Sulawesi Barat,ASRS
 32,ASRS,STA6021,0.82594,127.3813,Tafure,Kota Ternate Utara,Kota Ternate,Maluku Utara,ASRS
-33,ASRS,STR1003,1.119101,104.113799,Batu Besar,Nongsa,Batam,Kepulauan Riau,ASRS
+33,ASRS,STR1003,1.119101,104.113799,Batu Besar,Nongsa,Batam,Kep. Riau,ASRS
 34,ASRS,STR1002,-0.374146,117.253808,Sungai Siring,Samarinda Utara,Samarinda,Kalimantan Timur,ASRS
 35,ASRS,STR1005,4.1358615,117.6662083,Nunukan Timur,Nunukan,Nunukan,Kalimantan Utara,ASRS
 1,Iklim Mikro,50019,3.616,98.78,Sampali,Percut Sei Tuan,Deli Serdang,Sumatera Utara,IKLIMMIKRO
@@ -8855,7 +8855,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 10,Iklim Mikro,50010,-6.25,106.76,Pondok Betung,Pondok Aren,Kota Tangerang Selatan,Banten,IKLIMMIKRO
 11,Iklim Mikro,50009,-1.601111,103.49444,Sei,Jambi Luar Kota,Muaro Jambi,Jambi,IKLIMMIKRO
 12,Iklim Mikro,50017,-5.17226,105.18037,Sidobasuki,Tegineneng,Pesawaran,Lampung,IKLIMMIKRO
-13,Iklim Mikro,50008,-2.5233,106.4167,Koba,Koba,Bangka Tengah,Kepulauan Bangka Belitung,IKLIMMIKRO
+13,Iklim Mikro,50008,-2.5233,106.4167,Koba,Koba,Bangka Tengah,Kep. Bangka Belitung,IKLIMMIKRO
 14,Iklim Mikro,50011,-7.716165,110.3354,Sendangadi,Mlati,Sleman,DI Yogyakarta,IKLIMMIKRO
 15,Iklim Mikro,STI1004,-3.46225,114.84084,Sei. Besar, Banjarbaru Selatan,Kota Banjarbaru,Kalimantan Selatan,IKLIMMIKRO
 16,Iklim Mikro,STI1005,-8.6364,116.17049,Montong Are,Kediri,Lombok Barat,Nusa Tenggara Barat,IKLIMMIKRO
@@ -8895,5 +8895,5 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 23,Soil Moisture,STM1026,0.407528,101.21725,Kuapan,Tambang,Kampar,Riau,SOIL
 24,Soil Moisture,STM1016,-3.864852,102.312128,Kandang,Kampung Melayu,Kota Bengkulu,Bengkulu,SOIL
 25,Soil Moisture,STM1017,-5.17226,105.18037,Sidobasuki,Tegineneng,Pesawaran,Lampung,SOIL
-26,Soil Moisture,STM1024,-2.5233,106.4167,Koba,Koba,Bangka Tengah,Kepulauan Bangka Belitung,SOIL
+26,Soil Moisture,STM1024,-2.5233,106.4167,Koba,Koba,Bangka Tengah,Kep. Bangka Belitung,SOIL
 27,Soil Moisture,STM1020,-10.139,123.6669,Lasiana,Kelapa Lima,Kota Kupang,Nusa Tenggara Timur,SOIL
