@@ -74,3 +74,28 @@ with st.expander("📘 Lihat Legenda Warna & Simbol"):
         st.markdown("### 🔣 Simbol per Jenis Alat")
         for jenis, icon in jaringan_icons.items():
             st.markdown(f"<div style='font-size:18px;'>{icon} = {jenis}</div>", unsafe_allow_html=True)
+
+
+# Tampilkan ringkasan statistik per provinsi
+st.subheader("📊 Ringkasan Jumlah Alat per Provinsi (Hasil Filter)")
+summary_prov = df_filtered['PROVINSI'].value_counts().reset_index()
+summary_prov.columns = ['Provinsi', 'Jumlah Alat']
+summary_prov.insert(0, 'No', summary_prov.index + 1)
+
+# Tambahkan total akhir provinsi
+total_row_prov = pd.DataFrame({'No': [''], 'Provinsi': ['Total'], 'Jumlah Alat': [summary_prov['Jumlah Alat'].sum()]})
+summary_prov = pd.concat([summary_prov, total_row_prov], ignore_index=True)
+
+st.dataframe(summary_prov, use_container_width=True)
+
+# Tampilkan ringkasan statistik per jenis alat
+st.subheader("📊 Ringkasan Jumlah Alat per Jenis (Hasil Filter)")
+summary_jenis = df_filtered['JARINGAN'].value_counts().reset_index()
+summary_jenis.columns = ['Jenis Alat', 'Jumlah Alat']
+summary_jenis.insert(0, 'No', summary_jenis.index + 1)
+
+# Tambahkan total akhir jenis alat
+total_row_jenis = pd.DataFrame({'No': [''], 'Jenis Alat': ['Total'], 'Jumlah Alat': [summary_jenis['Jumlah Alat'].sum()]})
+summary_jenis = pd.concat([summary_jenis, total_row_jenis], ignore_index=True)
+
+st.dataframe(summary_jenis, use_container_width=True)
