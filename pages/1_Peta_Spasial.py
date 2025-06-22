@@ -37,19 +37,20 @@ df_filtered = df_all[
 ]
 
 st.markdown(f"### Jumlah titik yang ditampilkan: `{len(df_filtered)}`")
+# st.markdown(f"### Jenis Peralatan: `{selected_jaringan}`")
 
 # Tetapkan warna unik untuk setiap provinsi
 provinsi_colors = {prov: f"#{random.randint(0, 0xFFFFFF):06x}" for prov in provinsi_list}
 
 # Tetapkan ikon emoji untuk setiap jenis jaringan
 jaringan_icons = {
-    'PHOBS': '💧',
+    'PHOBS': '☂',
     'ARG': '🌧️',
-    'AWS': '☁️',
-    'AAWS': '🌤️',
+    'AWS': '🌤️',
+    'AAWS': '♣',
     'ASRS': '🌡️',
-    'IKLIMMIKRO': '🍃',
-    'SOIL': '🪨'
+    'IKLIMMIKRO': '★',
+    'SOIL': '⚑'
 }
 
 # Buat peta dasar
@@ -58,7 +59,7 @@ m = folium.Map(location=[-2.5, 118], zoom_start=5)
 for _, row in df_filtered.iterrows():
     prov = row['PROVINSI']
     color = provinsi_colors.get(prov, 'gray')
-    icon_text = jaringan_icons.get(row['JARINGAN'], '📍')
+    icon_text = jaringan_icons.get(row['JARINGAN'], '☂')
 
     folium.Marker(
         location=[row["LINTANG"], row["BUJUR"]],
@@ -70,10 +71,11 @@ folium.LayerControl(collapsed=False).add_to(m)
 
 st.subheader("🗺️ Peta Interaktif")
 st_folium(m, width=1000, height=600)
+st.markdown(jaringan_icons)
 
-# Scatter plot koordinat
-st.subheader("📊 Scatter Plot Longitude vs Latitude")
-st.scatter_chart(df_filtered[["BUJUR", "LINTANG"]])
+# # Scatter plot koordinat
+# st.subheader("📊 Scatter Plot Longitude vs Latitude")
+# st.scatter_chart(df_filtered[["BUJUR", "LINTANG"]])
 
 # Tabel data
 st.subheader("📋 Tabel Data")

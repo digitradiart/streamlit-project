@@ -4764,10 +4764,10 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 4763,Pos Hujan,92021901a,-1.62,134.09,,,Kab. Manokwari Selatan,Papua Barat,PHOBS
 4764,Pos Hujan,92021501a,-0.89,134.05,,,Kab. Manokwari,Papua Barat,PHOBS
 4765,Pos Hujan,92070101a,-2.73,134.53,,,Kab. Teluk Wondama,Papua Barat,PHOBS
-4766,Pos Hujan,91010101a,-6.32995,139.18103,,,Kab. Merauke,Papua,PHOBS
-4767,Pos Hujan,91160502a,-6.642,140.4232,,,Kab. Boven Digoel,Papua,PHOBS
-4768,Pos Hujan,91010601a,-8.387,140.517,,,Kab. Merauke,Papua,PHOBS
-4769,Pos Hujan,91020101a,-4.09,138.95,,,Kab. Jayawijaya,Papua,PHOBS
+4766,Pos Hujan,91010101a,-6.32995,139.18103,,,Kab. Merauke,Papua Selatan,PHOBS
+4767,Pos Hujan,91160502a,-6.642,140.4232,,,Kab. Boven Digoel,Papua Selatan,PHOBS
+4768,Pos Hujan,91010601a,-8.387,140.517,,,Kab. Merauke,Papua Selatan,PHOBS
+4769,Pos Hujan,91020101a,-4.09,138.95,,,Kab. Jayawijaya,Papua Pegunungan,PHOBS
 4770,Pos Hujan,91030101a,-2.55711,140.48796,,,Kab. Jayapura,Papua,PHOBS
 4771,Pos Hujan,91030201a,-2.57858,140.57404,,,Kab. Jayapura,Papua,PHOBS
 4772,Pos Hujan,91030501a,-2.65597,140.38435,,,Kab. Jayapura,Papua,PHOBS
@@ -4780,7 +4780,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 4779,Pos Hujan,91110202a,-2.782,140.66,,,Kab. Keerom,Papua,PHOBS
 4780,Pos Hujan,91110203a,-2.878,140.6998,,,Kab. Keerom,Papua,PHOBS
 4781,Pos Hujan,91110204a,-2.843,140.64,,,Kab. Keerom,Papua,PHOBS
-4782,Pos Hujan,91120201a,-4.63842,140.75836,,,Kab Pegunungan Bintang,Papua,PHOBS
+4782,Pos Hujan,91120201a,-4.63842,140.75836,,,Kab Pegunungan Bintang,Papua Pegunungan,PHOBS
 4783,Pos Hujan,91710101a,-2.52836,140.72243,,,Kota Jayapura,Papua,PHOBS
 4784,Pos Hujan,91710111a,-2.52,140.41,,,Kab. Jayapura,Papua,PHOBS
 4785,Pos Hujan,91710201a,-2.56,140.67,,,Kota Jayapura,Papua,PHOBS
@@ -5039,9 +5039,9 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 5038,Pos Hujan,18720301a,-5.14842,105.28176,,,Kota Metro,Lampung,PHOBS
 5039,Pos Hujan,18720401a,-5.14478,105.32893,,,Kota Metro,Lampung,PHOBS
 5040,Pos Hujan,18720501a,-5.15739,105.30052,,,Kota Metro,Lampung,PHOBS
-5041,Pos Hujan,91011101a,-8.3,140.38,,,Kab. Merauke,Papua,PHOBS
+5041,Pos Hujan,91011101a,-8.3,140.38,,,Kab. Merauke,Papua Selatan,PHOBS
 5042,Pos Hujan,92021301a,-1.0248,133.8363,,,Kab. Manokwari,Papua Barat,PHOBS
-5043,Pos Hujan,91010702a,-8.10049,140.56737,,,Kab. Merauke,Papua,PHOBS
+5043,Pos Hujan,91010702a,-8.10049,140.56737,,,Kab. Merauke,Papua Selatan,PHOBS
 5044,Pos Hujan,91030113a,-2.46,140.09,,,Kab. Jayapura,Papua,PHOBS
 5045,Pos Hujan,91030119a,-2.59507,140.63754,,,Kota Jayapura,Papua,PHOBS
 5046,Pos Hujan,91030601a,-2.63411,140.09486,,,Kab. Jayapura,Papua,PHOBS
@@ -6462,11 +6462,11 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6461,Pos Hujan,17080403a,-3.39007,102.35201,,,Kab. Kepahiang,Bengkulu,PHOBS
 6462,Pos Hujan,17090901a,-3.43511,102.19157,,,Kab. Bengkulu Tengah,Bengkulu,PHOBS
 6463,Pos Hujan,17710601a,-3.79154,102.28576,,,Kota Bengkulu,Bengkulu,PHOBS
-6464,Pos Hujan,92051801a,-0.23712,130.48504,,,Kab. Raja Ampat,Papua Barat,PHOBS
+6464,Pos Hujan,92051801a,-0.23712,130.48504,,,Kab. Raja Ampat,Papua Barat Daya,PHOBS
 6465,Pos Hujan,92080101a,-3.64361,133.6975,,,Kab. Kaimana,Papua Barat,PHOBS
 6466,Pos Hujan,92080102a,-3.64,133.74,,,Kab. Kaimana,Papua Barat,PHOBS
-6467,Pos Hujan,92710101a,-0.8909,131.285,,,Kota Sorong,Papua Barat,PHOBS
-6468,Pos Hujan,92710301a,-0.86,131.26,,,Kota Sorong,Papua Barat,PHOBS
+6467,Pos Hujan,92710101a,-0.8909,131.285,,,Kota Sorong,Papua Barat Daya,PHOBS
+6468,Pos Hujan,92710301a,-0.86,131.26,,,Kota Sorong,Papua Barat Daya,PHOBS
 6469,Pos Hujan,92020101a,-2.91938,132.26496,,,Kab. Fak Fak,Papua Barat,PHOBS
 6470,Pos Hujan,92110101a,-1.51,134.18,,,Kab. Manokwari Selatan,Papua Barat,PHOBS
 6471,Pos Hujan,92020102a,-2.94,132.4,,,Kab. Fak Fak,Papua Barat,PHOBS
@@ -6486,8 +6486,8 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6485,Pos Hujan,34030903a,-7.96667,110.63333,,,Kab. Gunung Kidul,DI Yogyakarta,PHOBS
 6486,Pos Hujan,34031302a,-7.84083,110.67472,,,Kab. Gunung Kidul,DI Yogyakarta,PHOBS
 6487,Pos Hujan,34041202a,-7.70694,110.39222,,,Kab. Sleman,DI Yogyakarta,PHOBS
-6488,Pos Hujan,91010301a,-8.08854,139.71585,,,Kab. Merauke,Papua,PHOBS
-6489,Pos Hujan,91011001a,-7.22855,140.44413,,,Kab. Merauke,Papua,PHOBS
+6488,Pos Hujan,91010301a,-8.08854,139.71585,,,Kab. Merauke,Papua Selatan,PHOBS
+6489,Pos Hujan,91011001a,-7.22855,140.44413,,,Kab. Merauke,Papua Selatan,PHOBS
 6490,Pos Hujan,74720101a,-5.52,122.58,,,Kota Bau Bau,Sulawesi Tenggara,PHOBS
 6491,Pos Hujan,81090501a,-3.76,126.52,,,Kab. Buru Selatan,Maluku,PHOBS
 6492,Pos Hujan,34711302a,-7.83722,110.38806,,,Kota Yogyakarta,DI Yogyakarta,PHOBS
@@ -6738,10 +6738,10 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6737,Pos Hujan,92030501a,-2.9354,132.4031,,,Kab. Fak Fak,Papua Barat,PHOBS
 6738,Pos Hujan,92060101a,-2.12014,133.60414,,,Kab. Teluk Bintuni,Papua Barat,PHOBS
 6739,Pos Hujan,34041603a,-7.61333,110.427,,,Kab. Sleman,DI Yogyakarta,PHOBS
-6740,Pos Hujan,91010502a,-8.41,140.47,,,Kab. Merauke,Papua,PHOBS
-6741,Pos Hujan,91010602a,-8.41,140.5,,,Kab. Merauke,Papua,PHOBS
-6742,Pos Hujan,91011103a,-8.24303,140.26786,,,Kab. Merauke,Papua,PHOBS
-6743,Pos Hujan,91180102a,-5.67222,138.25944,,,Kab. Asmat,Papua,PHOBS
+6740,Pos Hujan,91010502a,-8.41,140.47,,,Kab. Merauke,Papua Selatan,PHOBS
+6741,Pos Hujan,91010602a,-8.41,140.5,,,Kab. Merauke,Papua Selatan,PHOBS
+6742,Pos Hujan,91011103a,-8.24303,140.26786,,,Kab. Merauke,Papua Selatan,PHOBS
+6743,Pos Hujan,91180102a,-5.67222,138.25944,,,Kab. Asmat,Papua Selatan,PHOBS
 6744,Pos Hujan,74050802a,-4.0562,122.4492,,,Kab. Konawe Selatan,Sulawesi Tenggara,PHOBS
 6745,Pos Hujan,51030101a,-8.73877,115.17855,,,Kab. Badung,Bali,PHOBS
 6746,Pos Hujan,51030102a,-8.74948,115.17709,,,Kab. Badung,Bali,PHOBS
@@ -6847,7 +6847,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6846,Pos Hujan,15090202a,-1.17361,103.84028,,,Kab. Tebo,Jambi,PHOBS
 6847,Pos Hujan,92021502a,-0.9239,134.0342,,,Kab. Manokwari,Papua Barat,PHOBS
 6848,Pos Hujan,34021302a,-7.88694,110.415,,,Kab. Bantul,DI Yogyakarta,PHOBS
-6849,Pos Hujan,91011401a,-8.24417,140.19439,,,Kab. Merauke,Papua,PHOBS
+6849,Pos Hujan,91011401a,-8.24417,140.19439,,,Kab. Merauke,Papua Selatan,PHOBS
 6850,Pos Hujan,18050602a,-4.20862,105.56546,,,Kab. Tulang Bawang,Lampung,PHOBS
 6851,Pos Hujan,18120301a,-4.61013,105.07187,,,Kab. Tulang Bawang Barat,Lampung,PHOBS
 6852,Pos Hujan,91060101a,-1.18,136.12,,,Kab. Biak Numfor,Papua,PHOBS
@@ -6856,7 +6856,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6855,Pos Hujan,91710403a,-2.6747,140.8218,,,Kota Jayapura,Papua,PHOBS
 6856,Pos Hujan,91710402a,-2.6691,140.85117,,,Kota Jayapura,Papua,PHOBS
 6857,Pos Hujan,91710103a,-2.53,140.72,,,Kota Jayapura,Papua,PHOBS
-6858,Pos Hujan,91024401a,-4.07653,138.93475,,,Kab. Jayawijaya,Papua,PHOBS
+6858,Pos Hujan,91024401a,-4.07653,138.93475,,,Kab. Jayawijaya,Papua Pegunungan,PHOBS
 6859,Pos Hujan,91031002a,-2.39569,140.13864,,,Kab. Jayapura,Papua,PHOBS
 6860,Pos Hujan,13710704a,-0.961,100.48,,,Kota Padang,Sumatera Barat,PHOBS
 6861,Pos Hujan,91030702a,-2.62,140.13,,,Kab. Jayapura,Papua,PHOBS
@@ -6870,25 +6870,25 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6869,Pos Hujan,91110501a,-2.783,140.62,,,Kab. Keerom,Papua,PHOBS
 6870,Pos Hujan,91110205a,-2.8667,140.668,,,Kab. Keerom,Papua,PHOBS
 6871,Pos Hujan,91110301a,-3.43,140.71,,,Kab. Keerom,Papua,PHOBS
-6872,Pos Hujan,91042201a,-3.43139,135.45972,,,Kab. Nabire,Papua,PHOBS
-6873,Pos Hujan,91041101a,-3.17114,135.732,,,Kab. Nabire,Papua,PHOBS
-6874,Pos Hujan,91041102a,-3.16827,135.74988,,,Kab. Nabire,Papua,PHOBS
-6875,Pos Hujan,91040102a,-3.37947,135.47636,,,Kab. Nabire,Papua,PHOBS
-6876,Pos Hujan,91040101a,-3.37,135.5,,,Kab. Nabire,Papua,PHOBS
-6877,Pos Hujan,91080101a,-3.83,136.35,,,Kab. Paniai,Papua,PHOBS
+6872,Pos Hujan,91042201a,-3.43139,135.45972,,,Kab. Nabire,Papua Tengah,PHOBS
+6873,Pos Hujan,91041101a,-3.17114,135.732,,,Kab. Nabire,Papua Tengah,PHOBS
+6874,Pos Hujan,91041102a,-3.16827,135.74988,,,Kab. Nabire,Papua Tengah,PHOBS
+6875,Pos Hujan,91040102a,-3.37947,135.47636,,,Kab. Nabire,Papua Tengah,PHOBS
+6876,Pos Hujan,91040101a,-3.37,135.5,,,Kab. Nabire,Papua Tengah,PHOBS
+6877,Pos Hujan,91080101a,-3.83,136.35,,,Kab. Paniai,Papua Tengah,PHOBS
 6878,Pos Hujan,91150101a,-1.88,136.25,,,Kab. Kepulauan Yapen,Papua,PHOBS
-6879,Pos Hujan,91041701a,-3.37642,135.47312,,,Kab. Nabire,Papua,PHOBS
-6880,Pos Hujan,91040702a,-3.44883,135.33795,,,Kab. Nabire,Papua,PHOBS
-6881,Pos Hujan,91040703a,-3.4737,135.36307,,,Kab. Nabire,Papua,PHOBS
-6882,Pos Hujan,91041601a,-3.28062,135.58167,,,Kab. Nabire,Papua,PHOBS
-6883,Pos Hujan,91020301a,-3.97,138.9595,,,Kab. Jayawijaya,Papua,PHOBS
+6879,Pos Hujan,91041701a,-3.37642,135.47312,,,Kab. Nabire,Papua Tengah,PHOBS
+6880,Pos Hujan,91040702a,-3.44883,135.33795,,,Kab. Nabire,Papua Tengah,PHOBS
+6881,Pos Hujan,91040703a,-3.4737,135.36307,,,Kab. Nabire,Papua Tengah,PHOBS
+6882,Pos Hujan,91041601a,-3.28062,135.58167,,,Kab. Nabire,Papua Tengah,PHOBS
+6883,Pos Hujan,91020301a,-3.97,138.9595,,,Kab. Jayawijaya,Papua Pegunungan,PHOBS
 6884,Pos Hujan,91031101a,-3.07525,139.94053,,,Kab. Jayapura,Papua,PHOBS
 6885,Pos Hujan,33011302a,-7.35513,108.83974,,,Kab. Cilacap,Jawa Tengah,PHOBS
 6886,Pos Hujan,33011802a,-7.43885,108.76071,,,Kab. Cilacap,Jawa Tengah,PHOBS
 6887,Pos Hujan,91110506a,-2.8026,140.7529,,,Kab. Keerom,Papua,PHOBS
 6888,Pos Hujan,91110507a,-2.8197,140.7731,,,Kab. Keerom,Papua,PHOBS
 6889,Pos Hujan,91110101a,-3.27197,140.95708,,,Kab. Keerom,Papua,PHOBS
-6890,Pos Hujan,91040701a,-3.4428,135.371,,,Kab. Nabire,Papua,PHOBS
+6890,Pos Hujan,91040701a,-3.4428,135.371,,,Kab. Nabire,Papua Tengah,PHOBS
 6891,Pos Hujan,91050402a,-1.766,136.1808,,,Kab. Kepulauan Yapen,Papua,PHOBS
 6892,Pos Hujan,91150801a,-2.2501,136.3917,,,Kab. Waropen,Papua,PHOBS
 6893,Pos Hujan,91050401a,-1.8328,136.3056,,,Kab. Kepulauan Yapen,Papua,PHOBS
@@ -6944,10 +6944,10 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 6943,Pos Hujan,15022301a,-1.55425,102.0125,,,Kab. Merangin,Jambi,PHOBS
 6944,Pos Hujan,15050903a,-1.851,103.487,,,Kab. Muaro Jambi,Jambi,PHOBS
 6945,Pos Hujan,34020201a,-7.97,110.27,,,Kab. Bantul,DI Yogyakarta,PHOBS
-6946,Pos Hujan,91011104a,-8.25,140.36,,,Kab. Merauke,Papua,PHOBS
-6947,Pos Hujan,91090103a,-4.53006,136.89348,,,Kab. Mimika,Papua,PHOBS
-6948,Pos Hujan,91091501a,-4.45022,136.63156,,,Kab. Mimika,Papua,PHOBS
-6949,Pos Hujan,91180202a,-5.82417,138.64222,,,Kab. Asmat,Papua,PHOBS
+6946,Pos Hujan,91011104a,-8.25,140.36,,,Kab. Merauke,Papua Selatan,PHOBS
+6947,Pos Hujan,91090103a,-4.53006,136.89348,,,Kab. Mimika,Papua Tengah,PHOBS
+6948,Pos Hujan,91091501a,-4.45022,136.63156,,,Kab. Mimika,Papua Tengah,PHOBS
+6949,Pos Hujan,91180202a,-5.82417,138.64222,,,Kab. Asmat,Papua Selatan,PHOBS
 6950,Pos Hujan,73021001a,-5.46917,120.22194,,,Kab. Bulukumba,Sulawesi Selatan,PHOBS
 6951,Pos Hujan,73030801a,-5.50444,119.93417,,,Kab. Bantaeng,Sulawesi Selatan,PHOBS
 6952,Pos Hujan,73030702a,-5.49889,120.07306,,,Kab. Bantaeng,Sulawesi Selatan,PHOBS
@@ -7001,8 +7001,8 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7000,Pos Hujan,34020702a,-7.85889,110.27611,,,Kab. Bantul,DI Yogyakarta,PHOBS
 7001,Pos Hujan,34041304a,-7.687,110.372,,,Kab. Sleman,DI Yogyakarta,PHOBS
 7002,Pos Hujan,34041505a,-7.62797,110.39397,,,Kab. Sleman,DI Yogyakarta,PHOBS
-7003,Pos Hujan,91010701a,-8.18722,140.8,,,Kab. Merauke,Papua,PHOBS
-7004,Pos Hujan,91160102a,-6.1,140.31,,,Kab. Boven Digoel,Papua,PHOBS
+7003,Pos Hujan,91010701a,-8.18722,140.8,,,Kab. Merauke,Papua Selatan,PHOBS
+7004,Pos Hujan,91160102a,-6.1,140.31,,,Kab. Boven Digoel,Papua Selatan,PHOBS
 7005,Pos Hujan,14100601a,1.067,102.546,,,Kab. Kepulauan Meranti,Riau,PHOBS
 7006,Pos Hujan,14100701a,0.84477,103.00595,,,Kab. Kepulauan Meranti,Riau,PHOBS
 7007,Pos Hujan,14720201a,1.66757,101.45987,,,Kota Dumai,Riau,PHOBS
@@ -7200,7 +7200,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7199,Pos Hujan,34021003a,-7.95194,110.37833,,,Kab. Bantul,DI Yogyakarta,PHOBS
 7200,Pos Hujan,34021403a,-7.858,110.43497,,,Kab. Bantul,DI Yogyakarta,PHOBS
 7201,Pos Hujan,34041402a,-7.73425,110.30103,,,Kab. Sleman,DI Yogyakarta,PHOBS
-7202,Pos Hujan,91010132a,-8.52019,140.41568,,,Kab. Merauke,Papua,PHOBS
+7202,Pos Hujan,91010132a,-8.52019,140.41568,,,Kab. Merauke,Papua Selatan,PHOBS
 7203,Pos Hujan,21020302a,1.0471,103.3953,,,Kab. Karimun,Kep. Riau,PHOBS
 7204,Pos Hujan,21050101a,3.2165,106.2185,,,Kab. Kepulauan Anambas,Kep. Riau,PHOBS
 7205,Pos Hujan,92010702a,-0.953,131.32,,,Kab. Sorong,Papua Barat,PHOBS
@@ -7231,13 +7231,13 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7230,Pos Hujan,91030902a,-2.678,140.02697,,,Kab. Jayapura,Papua,PHOBS
 7231,Pos Hujan,91060301a,-1.1412,136.2541,,,Kab. Biak Numfor,Papua,PHOBS
 7232,Pos Hujan,91060201a,-0.8972,136.0265,,,Kab. Biak Numfor,Papua,PHOBS
-7233,Pos Hujan,91010401a,-7.98605,138.8346,,,Kab. Merauke,Papua,PHOBS
-7234,Pos Hujan,91010801a,-8.41779,140.9977,,,Kab. Merauke,Papua,PHOBS
-7235,Pos Hujan,91010901a,-7.32521,140.6628,,,Kab. Merauke,Papua,PHOBS
-7236,Pos Hujan,91011701a,-8.18231,140.12265,,,Kab. Merauke,Papua,PHOBS
-7237,Pos Hujan,91010201a,-7.40594,140.5917,,,Kab. Merauke,Papua,PHOBS
-7238,Pos Hujan,91011402a,-8.3485,140.2566,,,Kab. Merauke,Papua,PHOBS
-7239,Pos Hujan,91160201a,-5.87889,140.70611,,,Kab. Boven Digoel,Papua,PHOBS
+7233,Pos Hujan,91010401a,-7.98605,138.8346,,,Kab. Merauke,Papua Selatan,PHOBS
+7234,Pos Hujan,91010801a,-8.41779,140.9977,,,Kab. Merauke,Papua Selatan,PHOBS
+7235,Pos Hujan,91010901a,-7.32521,140.6628,,,Kab. Merauke,Papua Selatan,PHOBS
+7236,Pos Hujan,91011701a,-8.18231,140.12265,,,Kab. Merauke,Papua Selatan,PHOBS
+7237,Pos Hujan,91010201a,-7.40594,140.5917,,,Kab. Merauke,Papua Selatan,PHOBS
+7238,Pos Hujan,91011402a,-8.3485,140.2566,,,Kab. Merauke,Papua Selatan,PHOBS
+7239,Pos Hujan,91160201a,-5.87889,140.70611,,,Kab. Boven Digoel,Papua Selatan,PHOBS
 7240,Pos Hujan,51080802e,-8.08005,115.20678,,,Kab. Buleleng,Bali,PHOBS
 7241,Pos Hujan,51080201e,-8.19095,114.95205,,,Kab. Buleleng,Bali,PHOBS
 7242,Pos Hujan,51040102e,-8.60173,115.2651,,,Kab. Gianyar,Bali,PHOBS
@@ -7307,8 +7307,8 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7306,Pos Hujan,32180601a,-7.48952,108.69961,,,Kab. Pangandaran,Jawa Barat,PHOBS
 7307,Pos Hujan,18090505a,-5.52915,105.24822,,,Kab. Pesawaran,Lampung,PHOBS
 7308,Pos Hujan,18032102a,-4.78714,104.68211,,,Kab. Lampung Utara,Lampung,PHOBS
-7309,Pos Hujan,91170601a,-6.1253,139.14908,,,Kab. Mappi,Papua,PHOBS
-7310,Pos Hujan,91091502a,-4.36289,136.68911,,,Kab. Mimika,Papua,PHOBS
+7309,Pos Hujan,91170601a,-6.1253,139.14908,,,Kab. Mappi,Papua Selatan,PHOBS
+7310,Pos Hujan,91091502a,-4.36289,136.68911,,,Kab. Mimika,Papua Tengah,PHOBS
 7311,Pos Hujan,72071101a,-1.42536,123.33707,,,Kab. Banggai Kepulauan,Sulawesi Tengah,PHOBS
 7312,Pos Hujan,74051202a,-4.3952,122.0592,,,Kab. Konawe Selatan,Sulawesi Tenggara,PHOBS
 7313,Pos Hujan,72071801a,-1.45953,122.80127,,,Kab. Banggai Kepulauan,Sulawesi Tengah,PHOBS
@@ -7335,8 +7335,8 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7334,Pos Hujan,18052301a,-4.31597,105.50496,,,Kab. Tulang Bawang,Lampung,PHOBS
 7335,Pos Hujan,74022501a,-3.842,122.2082,,,Kab. Konawe,Sulawesi Tenggara,PHOBS
 7336,Pos Hujan,74110901a,-3.96,121.82,,,Kab. Kolaka Timur,Sulawesi Tenggara,PHOBS
-7337,Pos Hujan,91011201a,-8.69,140.55,,,Kab. Merauke,Papua,PHOBS
-7338,Pos Hujan,91011301a,-7.97,140.45,,,Kab. Merauke,Papua,PHOBS
+7337,Pos Hujan,91011201a,-8.69,140.55,,,Kab. Merauke,Papua Selatan,PHOBS
+7338,Pos Hujan,91011301a,-7.97,140.45,,,Kab. Merauke,Papua Selatan,PHOBS
 7339,Pos Hujan,35020502a,-7.9499,111.5503,,,Kab. Ponorogo,Jawa Timur,PHOBS
 7340,Pos Hujan,61070901a,0.79,109.5656,,,Kab. Bengkayang,Kalimantan Barat,PHOBS
 7341,Pos Hujan,35020801a,-7.93,111.52,,,Kab. Ponorogo,Jawa Timur,PHOBS
@@ -7464,7 +7464,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7463,Pos Hujan,53041202a,-9.07472,124.90833,,,Kab. Belu,Nusa Tenggara Timur,PHOBS
 7464,Pos Hujan,72022201a,-1.38116,120.7832,,,Kab. Poso,Sulawesi Tengah,PHOBS
 7465,Pos Hujan,18052501a,-4.44432,105.55774,,,Kab. Tulang Bawang,Lampung,PHOBS
-7466,Pos Hujan,91160104a,-6.0866,140.30528,,,Kab. Boven Digoel,Papua,PHOBS
+7466,Pos Hujan,91160104a,-6.0866,140.30528,,,Kab. Boven Digoel,Papua Selatan,PHOBS
 7467,Pos Hujan,18131102a,-5.60982,104.40195,,,Kab. Pesisir Barat,Lampung,PHOBS
 7468,Pos Hujan,74011003a,-3.835,121.2675,,,Kab. Kolaka,Sulawesi Tenggara,PHOBS
 7469,Pos Hujan,74011004a,-3.89306,121.33333,,,Kab. Kolaka,Sulawesi Tenggara,PHOBS
@@ -7540,9 +7540,9 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7539,Pos Hujan,53030803a,-9.44,124.69,,,Kab. Timor Tengah Utara,Nusa Tenggara Timur,PHOBS
 7540,Pos Hujan,36730202f,-6.04164,106.2038,,,Kota Serang,Banten,PHOBS
 7541,Pos Hujan,32051101a,-7.09594,107.92622,,,Kab. Garut,Jawa Barat,PHOBS
-7542,Pos Hujan,92041002a,-1.49,132.23111,,,Kab. Sorong Selatan,Papua Barat,PHOBS
-7543,Pos Hujan,92710901a,-0.87989,131.29803,,,Kota Sorong,Papua Barat,PHOBS
-7544,Pos Hujan,92710701a,-0.86972,131.26972,,,Kota Sorong,Papua Barat,PHOBS
+7542,Pos Hujan,92041002a,-1.49,132.23111,,,Kab. Sorong Selatan,Papua Barat Daya,PHOBS
+7543,Pos Hujan,92710901a,-0.87989,131.29803,,,Kota Sorong,Papua Barat Daya,PHOBS
+7544,Pos Hujan,92710701a,-0.86972,131.26972,,,Kota Sorong,Papua Barat Daya,PHOBS
 7545,Pos Hujan,18051101a,-4.51188,105.33886,,,Kab. Tulang Bawang,Lampung,PHOBS
 7546,Pos Hujan,32013602a,-6.60854,107.14745,,,Kab. Bogor,Jawa Barat,PHOBS
 7547,Pos Hujan,32024301a,-7.27339,106.83765,,,Kab. Sukabumi,Jawa Barat,PHOBS
@@ -7616,8 +7616,8 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7615,Pos Hujan,33740204a,-6.9486,110.4199,,,Kota Semarang,Jawa Tengah,PHOBS
 7616,Pos Hujan,33081404a,-7.45275,110.19955,,,Kab. Magelang,Jawa Tengah,PHOBS
 7617,Pos Hujan,18051102a,-4.45354,105.7626,,,Kab. Tulang Bawang,Lampung,PHOBS
-7618,Pos Hujan,91170101a,-6.52783,139.31554,,,Kab. Mappi,Papua,PHOBS
-7619,Pos Hujan,91010703a,-7.82799,140.74,,,Kab. Merauke,Papua,PHOBS
+7618,Pos Hujan,91170101a,-6.52783,139.31554,,,Kab. Mappi,Papua Selatan,PHOBS
+7619,Pos Hujan,91010703a,-7.82799,140.74,,,Kab. Merauke,Papua Selatan,PHOBS
 7620,Pos Hujan,74711001a,-3.9924,122.5321,,,Kota Kendari,Sulawesi Tenggara,PHOBS
 7621,Pos Hujan,32062301a,-7.42015,108.2819,,,Kab. Tasikmalaya,Jawa Barat,PHOBS
 7622,Pos Hujan,18042001a,-4.91707,104.37236,,,Kab. Lampung Barat,Lampung,PHOBS
@@ -8132,32 +8132,32 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 509,ARG,STG1022,-9.5906,124.207631,Nenas,Fatumnasi,Kab. Timor Tengah Selatan,Nusa Tenggara Timur,ARG
 510,ARG,150102,-2.81519444,140.1406053,Taja SP1,Yapsi,Kab. Jayapura,Papua,ARG
 511,ARG,150103,-2.802611111,140.7529444,Sanggaria / Arso I,Arso,Kab. Keerom,Papua,ARG
-512,ARG,150216,-8.288888,140.2689,Kurik,Kurik,Kab. Merauke,Papua,ARG
-513,ARG,150217,-8.292777,140.7022,Ngutti,Tanah Miring,Kab. Merauke,Papua,ARG
-514,ARG,150218,-8.536111,140.4642,Rimba raya,Merauke,Kab. Merauke,Papua,ARG
+512,ARG,150216,-8.288888,140.2689,Kurik,Kurik,Kab. Merauke,Papua Selatan,ARG
+513,ARG,150217,-8.292777,140.7022,Ngutti,Tanah Miring,Kab. Merauke,Papua Selatan,ARG
+514,ARG,150218,-8.536111,140.4642,Rimba raya,Merauke,Kab. Merauke,Papua Selatan,ARG
 515,ARG,150219,-2.301421,139.5651,Kiken,Bonggo,Kab. Sarmi,Papua,ARG
 516,ARG,150365,-2.538909,140.105366,Benyom Jaya,Nimbokrang,Kota Jayapura,Papua,ARG
 517,ARG,150366,-2.588611,140.231111,Karya Bumi,Namblong,Kota Jayapura,Papua,ARG
 518,ARG,STA0171,-2.530363,140.7144,Bayangkara,Jayapura Utara,Kab. Jayapura,Papua,ARG
 519,ARG,STA0172,-1.057068,135.8718,Yomdori,Biak Barat,Kab. Biak Numfor,Papua,ARG
 520,ARG,STA0173,-1.875458,136.24,Serui Kota,Yapen Selatan,Kab. Yapen Waropen,Papua,ARG
-521,ARG,STA0229,-6.077373,140.34149,Tanah Merah,Mandobo,Kab. Boven Digoel,Papua,ARG
-522,ARG,STA0230,-4.407561,136.855859,Kwamki Lama,Mimika Baru,Kab. Mimika,Papua,ARG
-523,ARG,STA3245,-8.40974,140.469,Semangga Dua,Semangga,Kab. Merauke,Papua,ARG
+521,ARG,STA0229,-6.077373,140.34149,Tanah Merah,Mandobo,Kab. Boven Digoel,Papua Selatan,ARG
+522,ARG,STA0230,-4.407561,136.855859,Kwamki Lama,Mimika Baru,Kab. Mimika,Papua Tengah,ARG
+523,ARG,STA3245,-8.40974,140.469,Semangga Dua,Semangga,Kab. Merauke,Papua Selatan,ARG
 524,ARG,STAL331,-2.125,139.2697222,Pantai Timur,Sarmi,Kab. Sarmi,Papua,ARG
 525,ARG,STAL332,-3.430066667,140.7789925,Koramil,Senggi,Kab. Keerom,Papua,ARG
 526,ARG,STAL333,-2.90555556,140.755,Yuwanain Arso 2,Arso 2,Kab. Keerom,Papua,ARG
-527,ARG,STAL334,-5.541667,138.140833,Kampung bis agats,Distrik Agats,Kab. Asmat,Papua,ARG
-528,ARG,STAL335,-5.738847,138.383301,Kampung Yasiw,Dist Atsj,Kab. Asmat,Papua,ARG
+527,ARG,STAL334,-5.541667,138.140833,Kampung bis agats,Distrik Agats,Kab. Asmat,Papua Selatan,ARG
+528,ARG,STAL335,-5.738847,138.383301,Kampung Yasiw,Dist Atsj,Kab. Asmat,Papua Selatan,ARG
 529,ARG,STG1024,-1.98304,138.709,Kasukwe,Sarmi Selatan,Kab. Sarmi,Papua,ARG
 530,ARG,STG1026,-3.2889024,140.8371652,Kalifam,Waris,Kab. Keerom,Papua,ARG
 531,ARG,STG1027,-2.57279,140.66259,Waena,Heram,Kota Jayapura,Papua,ARG
-532,ARG,150104,-1.489985,132.2311,Bumi Ajo,Moswaren,Kab. Sorong Selatan,Papua Barat,ARG
-533,ARG,150105,-1.276918,132.1977,Miskajim,Ayamaru,Kab. Maybrat,Papua Barat,ARG
-534,ARG,150220,-0.8622913,131.2590919,Klabala,Sorong Barat,Kota Sorong,Papua Barat,ARG
+532,ARG,150104,-1.489985,132.2311,Bumi Ajo,Moswaren,Kab. Sorong Selatan,Papua Barat Daya,ARG
+533,ARG,150105,-1.276918,132.1977,Miskajim,Ayamaru,Kab. Maybrat,Papua Barat Daya,ARG
+534,ARG,150220,-0.8622913,131.2590919,Klabala,Sorong Barat,Kota Sorong,Papua Barat Daya,ARG
 535,ARG,STA0080,-0.791858,133.7289,Sumber Boga,Masni,Kab. Manokwari,Papua Barat,ARG
 536,ARG,STA0234,-2.0677777,133.72083338,Konaro Jaya,Manimere,Kab. Teluk Bintuni,Papua Barat,ARG
-537,ARG,STA0235,-0.838888889,132.92749999,Senopi,Senopi,Kab. Tambrauw,Papua Barat,ARG
+537,ARG,STA0235,-0.838888889,132.92749999,Senopi,Senopi,Kab. Tambrauw,Papua Barat Daya,ARG
 538,ARG,STAL341,-1.30554,133.92241,Suteibey,Anggi,Kab. Pegunungan Afrak,Papua Barat,ARG
 539,ARG,STAL342,-0.83333,134.06868,Amban,Manokwari Barat,Kab. Manokwari,Papua Barat,ARG
 540,ARG,STG1023,-3.663693,133.764641,Kaimana Kota,Kaimana,Kab. Kaimana,Papua Barat,ARG
@@ -8617,21 +8617,21 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 291,AWS,STA2216,-2.57237,140.6926,-,-,Kab. Jayapura,Papua,AWS
 292,AWS,STA2226,-2.535111,140.71838,Jayapura,Jayapura,Kab. Jayapura,Papua,AWS
 293,AWS,STA2239,-2.6093,140.99722,Distrik Muara Tami,Muara Tami,Kab. Jayapura,Papua,AWS
-294,AWS,STA2272,-3.92688,136.38,Awabutu,Paniai Timur,Kab. Paniai,Papua,AWS
+294,AWS,STA2272,-3.92688,136.38,Awabutu,Paniai Timur,Kab. Paniai,Papua Tengah,AWS
 295,AWS,STA5005,-2.578371,140.5206,Sentani Kota,Sentani,Kab. Jayapura,Papua,AWS
 296,AWS,STA5025,-1.190556,136.1037,Mandala,Biak Kota,Kab. Biak Numfor,Papua,AWS
-297,AWS,STA5035,-4.53,136.89,Kwamki,Mimika Baru,Kab. Mimika,Papua,AWS
-298,AWS,STA5045,-8.520737,140.4161,Rimba Jaya,Merauke,Kab. Merauke,Papua,AWS
-299,AWS,STA5055,-4.088519,138.946189,Wamena Kota,Wamena Kota,Kab. Jayawijaya,Papua,AWS
+297,AWS,STA5035,-4.53,136.89,Kwamki,Mimika Baru,Kab. Mimika,Papua Tengah,AWS
+298,AWS,STA5045,-8.520737,140.4161,Rimba Jaya,Merauke,Kab. Merauke,Papua Selatan,AWS
+299,AWS,STA5055,-4.088519,138.946189,Wamena Kota,Wamena Kota,Kab. Jayawijaya,Papua Pegunungan,AWS
 300,AWS,STA5065,-2.536898,140.7157,,,Kab. Jayapura,Papua,AWS
-301,AWS,STA5075,-3.38489,135.40417,Margo,Wanggar,Kab. Nabire,Papua,AWS
+301,AWS,STA5075,-3.38489,135.40417,Margo,Wanggar,Kab. Nabire,Papua Tengah,AWS
 302,AWS,160009,-1.5105,134.1771,Ransiki,Ransiki,Kab. Manokwari Selatan,Papua Barat,AWS
-303,AWS,160020,-0.874536,131.2677,Klakublik,Sorong,Kota Sorong,Papua Barat,AWS
+303,AWS,160020,-0.874536,131.2677,Klakublik,Sorong,Kota Sorong,Papua Barat Daya,AWS
 304,AWS,STA2150,-0.89021,134.0514,Sowi,Manokwari Selatan,Kab. Manokwari,Papua Barat,AWS
-305,AWS,STA2235,-0.888586,131.266677,sawo,Sorong,Kota Sorong,Papua Barat,AWS
+305,AWS,STA2235,-0.888586,131.266677,sawo,Sorong,Kota Sorong,Papua Barat Daya,AWS
 306,AWS,STA2288,-0.928055555,134.025555555555,Andai,Manokwari Selatan,Kab. Manokwari,Papua Barat,AWS
-307,AWS,STA5015,-0.890673,131.2859,Sorong kota,Sorong Manoi,Kota Sorong,Papua Barat,AWS
-308,AWS,STW1050,-0.86448,131.2571,Mariayi,Distrik  Mariat ,Kota Sorong,Papua Barat,AWS
+307,AWS,STA5015,-0.890673,131.2859,Sorong kota,Sorong Manoi,Kota Sorong,Papua Barat Daya,AWS
+308,AWS,STW1050,-0.86448,131.2571,Mariayi,Distrik  Mariat ,Kota Sorong,Papua Barat Daya,AWS
 309,AWS,STW1063,-2.828214,134.5358,Isei,Rasiei,Kab. Teluk Wondama,Papua Barat,AWS
 310,AWS,STA2176,-0.297028,103.13228,Pekan Arba,Tembilahan,Kab. Indragri Hilir,Riau,AWS
 311,AWS,STA5021,0.46083,101.444,Maharatu,Marpoyan Damai,Kota Pekanbaru,Riau,AWS
@@ -8791,7 +8791,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 86,AAWS,AAWS0347,-8.713,120.1668,Tangge,Lembor,Kab. Manggarai Barat,Nusa Tenggara Timur,AAWS
 87,AAWS,STA3025,-10.088618,124.230419,Bena,Amanuban Selatan,Kab. Timor Tengah Selatan,Nusa Tenggara Timur,AAWS
 88,AAWS,STA3027,-9.841951,120.635865,Mutunggeding,Umalulu,Kab. Sumba Timur,Nusa Tenggara Timur,AAWS
-89,AAWS,14083224,-8.38709,140.5165,Garsa Mulya,Tanah Miring,Kab. Merauke,Papua,AAWS
+89,AAWS,14083224,-8.38709,140.5165,Garsa Mulya,Tanah Miring,Kab. Merauke,Papua Selatan,AAWS
 90,AAWS,STA3268,-2.68138889,140.80444444,Koya Barat,Muara Tami,Kota. Jayapura,Papua,AAWS
 91,AAWS,AAWS0329,-3.447739,119.3741,Tonyaman ,Binuang ,Kab. Polewali Mandar,Sulawesi Barat,AAWS
 92,AAWS,AAWS0324,0.9130949,123.126,Tontulow Utara,Pinogaluman ,Kab. Bolaang Mongodow Utara,Sulawesi Utara,AAWS
@@ -8836,7 +8836,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 26,ASRS,STR1001,-1.479,134.138,Ransiki,Ransiki,Manokwari Selatan,Papua Barat,ASRS
 27,ASRS,STA6020,-8.38709,140.5165,Garsa Mulya,Tanah Miring,Merauke,Papua Selatan,ASRS
 28,ASRS,STA6026,-1.65,120.183,Bariri,Lore Tengah,Poso,Sulawesi Tengah,ASRS
-29,ASRS,STA6022,-0.981,131.301,Malaingkedi,Sorong Utara,Kota Sorong,Papua Barat,ASRS
+29,ASRS,STA6022,-0.981,131.301,Malaingkedi,Sorong Utara,Kota Sorong,Papua Barat Daya,ASRS
 30,ASRS,STA6025,-2.22805555555556,113.94622222222223,Pahandut,Panarung,Palangkaraya,Kalimantan Tengah,ASRS
 31,ASRS,STA6028,-2.66665667,118.8497631,Rangas,Simboro,Mamuju,Sulawesi Barat,ASRS
 32,ASRS,STA6021,0.82594,127.3813,Tafure,Kota Ternate Utara,Kota Ternate,Maluku Utara,ASRS

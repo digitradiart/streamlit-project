@@ -17,6 +17,7 @@ st.subheader("Jumlah Alat per Provinsi")
 prov_counts = df["PROVINSI"].value_counts().reset_index()
 prov_counts.columns = ["Provinsi", "Jumlah"]
 st.dataframe(prov_counts)
+# st.header(len(prov_counts))
 
 bar = alt.Chart(prov_counts).mark_bar().encode(
     x=alt.X("Jumlah:Q", title="Jumlah Alat"),

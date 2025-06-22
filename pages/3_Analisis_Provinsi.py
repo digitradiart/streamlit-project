@@ -4,7 +4,7 @@ import os
 import altair as alt
 
 st.set_page_config(layout="wide")
-st.title("📍 Analisis Per Provinsi")
+st.title("📊 Analisis Per Provinsi")
 
 # Load data
 data_path = os.path.join("data", "data.csv")
@@ -21,11 +21,13 @@ provinsi_list = sorted(df["PROVINSI"].dropna().unique().tolist())
 selected_prov = st.sidebar.selectbox("Pilih Provinsi", provinsi_list)
 df_prov = df[df["PROVINSI"] == selected_prov]
 
-st.header(f"📊 Statistik untuk Provinsi: {selected_prov}")
+st.header(f"Statistik untuk Provinsi: {selected_prov}")
 
 # Jumlah alat per jenis jaringan
 st.subheader("Jumlah Alat per Jenis Jaringan")
 jaringan_counts = df_prov["JARINGAN"].value_counts().reset_index()
+
+# st.header(jaringan_counts)
 jaringan_counts.columns = ["Jenis Jaringan", "Jumlah"]
 st.dataframe(jaringan_counts)
 
@@ -39,7 +41,7 @@ st.altair_chart(bar, use_container_width=True)
 
 # Sebaran kabupaten/kota
 st.subheader("Jumlah Alat per Kabupaten/Kota")
-kab_counts = df_prov["KAB/KOTA"].value_counts().reset_index()
+kab_counts = df_prov["KAB/KOTA"].value_counts().reset_index() 
 kab_counts.columns = ["Kabupaten/Kota", "Jumlah"]
 st.dataframe(kab_counts)
 
