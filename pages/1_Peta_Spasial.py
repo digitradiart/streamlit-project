@@ -26,10 +26,10 @@ provinsi_colors = {prov: color_list[i % len(color_list)] for i, prov in enumerat
 # Simbol/icon berdasarkan jenis jaringan (disederhanakan untuk beberapa)
 jaringan_icons = {
     'PHOBS': '■',        
-    'ARG': '☂️',
+    'ARG': '♦',
     'AWS': '☁',
-    'AAWS': '🌤️',
-    'ASRS': '🌡️',
+    'AAWS': '♤',
+    'ASRS': '♣',
     'IKLIMMIKRO': '⬤',    
     'SOIL': '▲'           
 }
