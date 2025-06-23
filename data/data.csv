@@ -4749,12 +4749,12 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 4748,Pos Hujan,21010701a,1.08972,104.2692,,,Kab. Bintan,Kep. Riau,PHOBS
 4749,Pos Hujan,72032401a,-0.49,119.7634,,,Kab. Donggala,Sulawesi Tengah,PHOBS
 4750,Pos Hujan,21011001a,1.07583,104.3833,,,Kab. Bintan,Kep. Riau,PHOBS
-4751,Pos Hujan,92013901a,-1.02083,131.3181,,,Kab. Sorong,Papua Barat,PHOBS
-4752,Pos Hujan,92013902a,-0.97,131.33,,,Kab. Sorong,Papua Barat,PHOBS
-4753,Pos Hujan,92010701a,-0.953,131.32,,,Kab. Sorong,Papua Barat,PHOBS
-4754,Pos Hujan,92010501a,-1.1581,131.2624,,,Kab. Sorong,Papua Barat,PHOBS
-4755,Pos Hujan,92010502a,-1.03944,131.2897,,,Kab. Sorong,Papua Barat,PHOBS
-4756,Pos Hujan,92011301a,-1.05,131.3,,,Kab. Sorong,Papua Barat,PHOBS
+4751,Pos Hujan,92013901a,-1.02083,131.3181,,,Kab. Sorong,Papua Barat Daya,PHOBS
+4752,Pos Hujan,92013902a,-0.97,131.33,,,Kab. Sorong,Papua Barat Daya,PHOBS
+4753,Pos Hujan,92010701a,-0.953,131.32,,,Kab. Sorong,Papua Barat Daya,PHOBS
+4754,Pos Hujan,92010501a,-1.1581,131.2624,,,Kab. Sorong,Papua Barat Daya,PHOBS
+4755,Pos Hujan,92010502a,-1.03944,131.2897,,,Kab. Sorong,Papua Barat Daya,PHOBS
+4756,Pos Hujan,92011301a,-1.05,131.3,,,Kab. Sorong,Papua Barat Daya,PHOBS
 4757,Pos Hujan,92020201a,-1.5,134.1833,,,Kab. Manokwari Selatan,Papua Barat,PHOBS
 4758,Pos Hujan,92020401a,-0.91667,133.7833,,,Kab. Manokwari,Papua Barat,PHOBS
 4759,Pos Hujan,92020501a,-0.85,133.78,,,Kab. Manokwari,Papua Barat,PHOBS
@@ -7203,7 +7203,7 @@ NO,JARINGAN PENGAMATAN,NO STASIUN,LINTANG,BUJUR,DESA,KECAMATAN,KAB/KOTA,PROVINSI
 7202,Pos Hujan,91010132a,-8.52019,140.41568,,,Kab. Merauke,Papua Selatan,PHOBS
 7203,Pos Hujan,21020302a,1.0471,103.3953,,,Kab. Karimun,Kep. Riau,PHOBS
 7204,Pos Hujan,21050101a,3.2165,106.2185,,,Kab. Kepulauan Anambas,Kep. Riau,PHOBS
-7205,Pos Hujan,92010702a,-0.953,131.32,,,Kab. Sorong,Papua Barat,PHOBS
+7205,Pos Hujan,92010702a,-0.953,131.32,,,Kab. Sorong,Papua Barat Daya,PHOBS
 7206,Pos Hujan,74710202a,-3.9578,122.62,,,Kota Kendari,Sulawesi Tenggara,PHOBS
 7207,Pos Hujan,61020101a,0.36415,108.95526,,,Kab. Mempawah,Kalimantan Barat,PHOBS
 7208,Pos Hujan,34040602a,-7.73117,110.35369,,,Kab. Sleman,DI Yogyakarta,PHOBS
